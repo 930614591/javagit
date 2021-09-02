@@ -21,8 +21,3 @@ public class Work2 {
     }
 
 }
-    class a1{
-    Scanner scanner=new Scanner(System.in);
-    String s1=scanner.next();
-
-        }
