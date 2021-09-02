@@ -7,7 +7,12 @@ public class work5 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("请输入银行卡金额：");
-    }
+
+        long money=sc.nextLong();
+        String format=String.format("￥%,d",money);
+
+        System.out.print(format);
 
 
-}
+
+}}
