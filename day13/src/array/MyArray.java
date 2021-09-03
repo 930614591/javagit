@@ -85,6 +85,7 @@ public class MyArray {
         if(rangeCheck(index)){//检查是否越界
             return array[index];
         }else {
+            System.out.println("警告：数组越界或者不存在此索引\t"+this+"【"+index+"】");
             throw new ArrayIndexOutOfBoundsException();
         }
         //return "警告：数组越界或者不存在此索引【"+index+"】";
