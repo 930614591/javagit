@@ -22,6 +22,7 @@ public class Test {
         arr.add("as");
         arr.add("中国");
         System.out.println(arr.display());
+
         arr.get(100);
 
 
