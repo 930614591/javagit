@@ -88,17 +88,18 @@ public class Poker {
 	public static void main(String[] argStrings) {
 		//demo();
 		System.out.println("欢迎进入全民斗地主！");
-		System.out.println("\t 1.初始化");
-		System.out.println("\t 2.洗牌");
-		System.out.println("\t 3.看牌");
-		System.out.println("\t 4.发牌");
-		System.out.println("\t 0.结束游戏");
+
 		
 		Scanner scanner=new Scanner(System.in);
 		Poker poker=new Poker(); 
 		
 		while (true) {
 			System.out.println("请玩家选择功能");
+			System.out.println("\t 1.初始化");
+			System.out.println("\t 2.洗牌");
+			System.out.println("\t 3.看牌");
+			System.out.println("\t 4.发牌");
+			System.out.println("\t 0.结束游戏");
 			int num=scanner.nextInt();
 			
 		
