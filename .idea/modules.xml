@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day12/Day12.iml" filepath="$PROJECT_DIR$/Day12/Day12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day12/Day13.iml" filepath="$PROJECT_DIR$/Day12/Day13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day13/day13.iml" filepath="$PROJECT_DIR$/day13/day13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gitee.iml" filepath="$PROJECT_DIR$/.idea/gitee.iml" />
     </modules>
   </component>
 </project>
