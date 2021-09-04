@@ -12,19 +12,22 @@ public class Test {
         arr.add("as");
         arr.add("as");
         arr.add("as");
+        arr.add("a213s");
         arr.add("as");
         arr.add("as");
+        arr.add("a23s");
         arr.add("as");
         arr.add("as");
-        arr.add("as");
-        arr.add("as");
-        arr.add("as");
+        arr.add("a123s");
         arr.add("as");
         arr.add("中国");
         System.out.println(arr.display());
 
-        arr.get(100);
-
+        //arr.get(100);
+        arr.update(0,"上海");
+        System.out.println(arr.display());
+        arr.remmov(0);
+        System.out.println(arr.display());
 
     }
 }

@@ -82,24 +82,50 @@ public class MyArray {
     * 通过指定的索引类获取这个索引处的值
     * */
     public  String get(int index){
-        if(rangeCheck(index)){//检查是否越界
-            return array[index];
-        }else {
-            System.out.println("警告：数组越界或者不存在此索引\t"+this+"【"+index+"】");
-            throw new ArrayIndexOutOfBoundsException();
-        }
+        rangeCheck(index);//检查是否越界
+        return array[index];
         //return "警告：数组越界或者不存在此索引【"+index+"】";
+    }
+
+    /*
+     * 3.根据指定的索引。来更新此处元素的值
+     * index 索引
+     * value 待更新的值
+     * */
+    public void update(int index,String value){
+        rangeCheck(index);//检查是否越界
+        array[index]=value;//用新值覆盖旧数据
+
+    }
+
+    /*
+    * 4.删除指定的索引位置
+    * */
+    public String remmov(int index){
+        rangeCheck(index);//检查是否越界
+        String temp=array[index];
+        if(index==size){//如果是最后一个，置null并结束
+            array[index]=null;
+            return  temp;
+        }
+        for(int i=index;i<size;i++){
+            array[i]=array[i+1];//被删除后的元素整体向前移动
+        }
+        if(index<size)size--;else return "";//保障size准确
+        return temp;
     }
 
 
     //专用于判断索引是否越界，越界则抛出异常
     private boolean rangeCheck(int index) {
         if(index<0||index>=capacity){
-            return false;
-            //throw new ArrayIndexOutOfBoundsException();//数组索引越界异常 手动抛出
+           // return false;
+            throw new ArrayIndexOutOfBoundsException();//数组索引越界异常 手动抛出
         }
         return  true;
     }
+
+
 
 
 }
