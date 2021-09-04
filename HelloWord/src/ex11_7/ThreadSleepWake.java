@@ -7,55 +7,55 @@ import java.util.Date;
 public class ThreadSleepWake  extends Thread{
 	private DateFormat dateFormat=new SimpleDateFormat("ss:SS");
 	
-	//java³ÌĞòÖ÷Èë¿Ú
+	//javaç¨‹åºä¸»å…¥å£
 	public static void main(String[] argsStrings) {
 		
-		//BasketballPersonManage mythread=new BasketballPersonManage();//Ö÷³ÌĞò´íÎó£¬
+		//BasketballPersonManage mythread=new BasketballPersonManage();//ä¸»ç¨‹åºé”™è¯¯ï¼Œ
 		
 		
 		
 	}
 	
 	public void incident() {
-		Thread.currentThread().interrupt();//»½ĞÑµ±Ç°Ïß³Ì
+		Thread.currentThread().interrupt();//å”¤é†’å½“å‰çº¿ç¨‹
 		while(true) {
 			if(Thread.currentThread().isInterrupted()) {
-				//ÅĞ¶Ïµ±Ç°Ïß³ÌÊÇ·ñ±»»½ĞÑ
-				System.out.println(dateFormat.format(new Date())+"±ÈÈü¿ªÊ¼ÏÖÔÚÊÇ·ñ×¼±¸ÉÏ³¡");
-				System.out.println(Thread.currentThread().isInterrupted()?"ÊÇ":"Ã»ÓĞ");
+				//åˆ¤æ–­å½“å‰çº¿ç¨‹æ˜¯å¦è¢«å”¤é†’
+				System.out.println(dateFormat.format(new Date())+"æ¯”èµ›å¼€å§‹ç°åœ¨æ˜¯å¦å‡†å¤‡ä¸Šåœº");
+				System.out.println(Thread.currentThread().isInterrupted()?"æ˜¯":"æ²¡æœ‰");
 				try {
 					Thread.currentThread();
-					Thread.sleep(5000);//		Ïß³ÌĞİÃß5Ãë
-				} catch (InterruptedException e) {//²¶»ñ»½ĞÑÒì³£
-					System.out.println(dateFormat.format(new Date())+"ÊÕµ½Ö÷½ÌÁ·ÃüÁî£¬Í£Ö¹ĞİÏ¢£¡"+e.getMessage());
+					Thread.sleep(5000);//		çº¿ç¨‹ä¼‘çœ 5ç§’
+				} catch (InterruptedException e) {//æ•è·å”¤é†’å¼‚å¸¸
+					System.out.println(dateFormat.format(new Date())+"æ”¶åˆ°ä¸»æ•™ç»ƒå‘½ä»¤ï¼Œåœæ­¢ä¼‘æ¯ï¼"+e.getMessage());
 					// TODO: handle exception
 				}
-				System.out.println(dateFormat.format(new Date())+"±¾´Î±ÈÈü½áÊøºó£¬ÊÇ·ñ²Î¼ÓÏÂÒ»³¡±ÈÈü£¿");
-				System.out.println(Thread.currentThread().isInterrupted()?"ÊÇ":"²»²Î¼Ó");
+				System.out.println(dateFormat.format(new Date())+"æœ¬æ¬¡æ¯”èµ›ç»“æŸåï¼Œæ˜¯å¦å‚åŠ ä¸‹ä¸€åœºæ¯”èµ›ï¼Ÿ");
+				System.out.println(Thread.currentThread().isInterrupted()?"æ˜¯":"ä¸å‚åŠ ");
 			}
 		}
 	}
 	public void run() {
-		System.out.println("µÚÒ»³¡±ÈÈü½áÊøµÄÊ±¼äÎª£º"+dateFormat.format(new Date()));
-		System.out.println("ĞİÏ¢ËÄĞ¡Ê±");
+		System.out.println("ç¬¬ä¸€åœºæ¯”èµ›ç»“æŸçš„æ—¶é—´ä¸ºï¼š"+dateFormat.format(new Date()));
+		System.out.println("ä¼‘æ¯å››å°æ—¶");
 		try {
-			sleep(2000);//Ïß³ÌĞİÃß2s¼ÙÉè1sÊÇÒ»Ğ¡Ê±
+			sleep(2000);//çº¿ç¨‹ä¼‘çœ 2så‡è®¾1sæ˜¯ä¸€å°æ—¶
 		} catch (InterruptedException e) {
 			// TODO: handle exception
-			System.out.println(dateFormat.format(new Date())+"ÊÕµ½Ö÷½ÌÁ·ÃüÁî£¬×¼±¸ÉÏ³¡£¡"+e.getMessage());
+			System.out.println(dateFormat.format(new Date())+"æ”¶åˆ°ä¸»æ•™ç»ƒå‘½ä»¤ï¼Œå‡†å¤‡ä¸Šåœºï¼"+e.getMessage());
 		}
-		System.out.println(dateFormat.format(new Date())+"ÔÚĞİÏ¢¹ı³ÌÖĞÊÇ·ñÓÖ²Î¼ÓÆäËûµÄ±ÈÈü£¿");
+		System.out.println(dateFormat.format(new Date())+"åœ¨ä¼‘æ¯è¿‡ç¨‹ä¸­æ˜¯å¦åˆå‚åŠ å…¶ä»–çš„æ¯”èµ›ï¼Ÿ");
 		try {
-			sleep(2000);//ĞİÃßÁ½Ãë
+			sleep(2000);//ä¼‘çœ ä¸¤ç§’
 			
 		} catch (InterruptedException e) {
 			// TODO: handle exception
-			System.out.println(dateFormat.format(new Date())+"ÊÕµ½Ö÷½ÌÁ·ÃüÁî£¬×¼±¸ÉÏ³¡£¡"+e.getMessage());
+			System.out.println(dateFormat.format(new Date())+"æ”¶åˆ°ä¸»æ•™ç»ƒå‘½ä»¤ï¼Œå‡†å¤‡ä¸Šåœºï¼"+e.getMessage());
 		}
-		System.out.println(Thread.currentThread().isInterrupted()?"²Î¼Ó±ÈÈü":"Ã»ÓĞ²Î¼Ó±ÈÈü");
-		interrupt();//»½ĞÑÏß³Ì
-		System.out.println(dateFormat.format(new Date())+"ĞİÏ¢ÖĞ£¬Ìæ²¹¶ÓÔ±ÊÜÉË£¬ÊÇ·ñ²Î¼Ó±ÈÈü£¿");
-		System.out.println(Thread.currentThread().isInterrupted()?"²Î¼Ó":"²»²Î¼Ó");
+		System.out.println(Thread.currentThread().isInterrupted()?"å‚åŠ æ¯”èµ›":"æ²¡æœ‰å‚åŠ æ¯”èµ›");
+		interrupt();//å”¤é†’çº¿ç¨‹
+		System.out.println(dateFormat.format(new Date())+"ä¼‘æ¯ä¸­ï¼Œæ›¿è¡¥é˜Ÿå‘˜å—ä¼¤ï¼Œæ˜¯å¦å‚åŠ æ¯”èµ›ï¼Ÿ");
+		System.out.println(Thread.currentThread().isInterrupted()?"å‚åŠ ":"ä¸å‚åŠ ");
 	}
 	
 }

@@ -1,3 +1,4 @@
+/*
 package MySQL_UI;
 import java.sql.*;
 
@@ -63,3 +64,4 @@ public class ex14_8_1BatchInsert {
 	}
 
 }
+*/

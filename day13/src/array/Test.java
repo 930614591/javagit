@@ -20,7 +20,7 @@ public class Test {
         arr.add("as");
         arr.add("a123s");
         arr.add("as");
-        arr.add("中国");
+        arr.add("z中国");
         System.out.println(arr.display());
 
         //arr.get(100);

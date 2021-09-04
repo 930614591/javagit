@@ -1,0 +1,31 @@
+package ex13_3;
+
+import java.io.FileReader;
+import java.io.FileWriter;
+
+public class ex13_9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//用fileReader filewriter读写文件
+		try {
+			FileReader fileReader=new FileReader("D:\\eclipse\\java_ee\\HelloWord\\src\\ex13_3\\ex13_9.java");
+			FileWriter fileWriter=new FileWriter("D:\\eclipse\\java_ee\\HelloWord\\src\\ex13_3\\ex13_9.bak");
+			int i=0;
+			char[] winChar= {'\r','\n'};
+			while((i=fileReader.read())!=-1) {
+				if (i=='\n') {
+					fileWriter.write(winChar);
+				}else 
+					fileWriter.write(i);
+			}
+			fileReader.close();
+			fileWriter.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+			// TODO: handle exception
+		}
+
+	}
+
+}

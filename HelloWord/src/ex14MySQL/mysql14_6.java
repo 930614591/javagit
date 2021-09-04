@@ -1,3 +1,4 @@
+/*
 package ex14MySQL;
 
 import java.awt.event.ActionEvent;
@@ -6,7 +7,7 @@ import java.sql.*;
 
 import javax.swing.JButton;
 
-import com.mysql.*;
+import com.mysql.*;*//*
 
 class ExecuteDDL{
 	Connection connection;
@@ -67,3 +68,4 @@ public class mysql14_6 {
 	}
 
 }
+*/

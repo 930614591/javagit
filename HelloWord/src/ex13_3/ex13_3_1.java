@@ -7,8 +7,8 @@ public class ex13_3_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		try {
-			System.out.println("ÇëÊäÈë×Ö·û£º");//ÏÔÊ¾×Ö·û´®ĞÅÏ¢
-			System.out.println("ÊäÈë×Ö·ûÒÔÊ®½øÖÆ±íÊ¾Îª"+System.in.read());
+			System.out.println("è¯·è¾“å…¥å­—ç¬¦ï¼š");//æ˜¾ç¤ºå­—ç¬¦ä¸²ä¿¡æ¯
+			System.out.println("è¾“å…¥å­—ç¬¦ä»¥åè¿›åˆ¶è¡¨ç¤ºä¸º"+System.in.read());
 		} catch (IOException e) {
 			// TODO: handle exception
 			e.printStackTrace();
