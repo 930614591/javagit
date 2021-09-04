@@ -115,6 +115,13 @@ public class MyArray {
         return temp;
     }
 
+    /*
+    * 返回数组中真实的元素个数
+    * */
+    public  int size(){
+        return  size;
+    }
+
 
     //专用于判断索引是否越界，越界则抛出异常
     private boolean rangeCheck(int index) {
