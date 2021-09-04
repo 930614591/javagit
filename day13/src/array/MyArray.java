@@ -122,6 +122,20 @@ public class MyArray {
         return  size;
     }
 
+    /*
+    * 返回元素在数组中第一次出新的索引
+    * */
+    public  int indexOf(String str){
+        if (str==null)
+            return -1;
+        for(int i=0;i<size;i++){
+            if (str.equals(array[i])){
+                return  i;
+            }
+        }
+        return -1;
+    }
+
 
     //专用于判断索引是否越界，越界则抛出异常
     private boolean rangeCheck(int index) {
