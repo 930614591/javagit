@@ -8,7 +8,7 @@ public class MyArray {
     private  static  final int DEFSULT_CAPACITY=10;//数组的默认容量10 默认长度
     private  int capacity;//初始容量，自定义容量
     private  String[] array;//自定义数组///new String[DEFSULT_CAPACITY];
-    private  int index;//记录已经存到那个位置了
+    private  int size;//记录已经存到那个位置了
 
     public MyArray(){
         super();
@@ -26,9 +26,9 @@ public class MyArray {
     * */
     public boolean add(String str){
         //1 判断容量并扩容
-        ensureCapacity(index+1);//表示先判断在存放下个元素前，是否需要先扩容 保证先扩容再存放
+        ensureCapacity(size +1);//表示先判断在存放下个元素前，是否需要先扩容 保证先扩容再存放
         //将元素存入数组中
-        array[index++]=str;
+        array[size++]=str;
         return  false;
     }
 
@@ -52,7 +52,7 @@ public class MyArray {
         //2.创建新数组
         String [] newArray=new String[capacity];
         //3.将以前旧数组的全部数据依次放到新数组中
-        for (int i=0; i<index; i++){    //index实际上就是真正的元素个数，有几个元素就复制几个元素
+        for (int i = 0; i< size; i++){    //index实际上就是真正的元素个数，有几个元素就复制几个元素
             newArray[i]=array[i];
         }
         //4.j将新的数组对象指向array变量  将地址赋给array，旧的地址会被回收
@@ -65,9 +65,9 @@ public class MyArray {
     public StringBuilder display(){
         StringBuilder builder=new StringBuilder();
         builder.append("[");
-        for (int i=0;i<index;i++){
+        for (int i = 0; i< size; i++){
             builder.append(array[i]);
-            if (i+1==index){
+            if (i+1== size){
                 continue;
             }
             builder.append(",");
