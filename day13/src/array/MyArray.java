@@ -116,14 +116,14 @@ public class MyArray {
     }
 
     /*
-    * 返回数组中真实的元素个数
+    * 5.返回数组中真实的元素个数
     * */
     public  int size(){
         return  size;
     }
 
     /*
-    * 返回元素在数组中第一次出新的索引
+    * 6.返回元素在数组中第一次出新的索引
     * */
     public  int indexOf(String str){
         if (str==null)
@@ -134,6 +134,37 @@ public class MyArray {
             }
         }
         return -1;
+    }
+
+    /*
+    * 7.判断数组中是否真实存在元素
+    * */
+    public boolean isEmpty(){
+
+        return size==0;
+    }
+
+
+    /*
+    *8. 判断此元素是否在数组中存在
+    * */
+    public  boolean contains(String value){
+        return indexOf(value)!=-1;
+    }
+
+    /*
+    * 9. 统计当前元素在数组中元素出现的次数
+    *
+    * */
+    public int count(String str){
+        if (str==null) return 0;
+        int count=0;
+        for(int i=0;i<size;i++){
+            if (str.equals(array[i])){
+                count++;
+            }
+        }
+        return  count;
     }
 
 
