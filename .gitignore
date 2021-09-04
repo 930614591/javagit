@@ -4,6 +4,8 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 .idea/
+.git/
+.gitee/
 # Other files and folders
 .settings/
 
