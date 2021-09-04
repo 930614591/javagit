@@ -1,4 +1,7 @@
 package array;
+
+import java.util.Random;
+
 /*
 * 通用的数组工具：增删改查
 * @authon long
@@ -165,6 +168,35 @@ public class MyArray {
             }
         }
         return  count;
+    }
+
+    /*
+    *10. 随机打乱数组中的元素
+    * */
+    public void shuffle(){
+        Random random=new Random();
+        int randomeIndex=random.nextInt(size);//生成真是长度内随机数
+        swap(randomeIndex);
+    }
+
+    private void swap(int index){
+        for (int i=0;i<size;i++){
+            String temp=array[i];
+            array[i]=array[index];
+            array[index]=temp;
+        }
+    }
+
+    /*
+    * 11.反转：数组元素倒序
+    *
+    * */
+    public  void reverse(){
+        for (int left=0,right=size-1;left<right;left++,right--){
+            String temp=array[left];
+            array[left]=array[right];
+            array[right]=temp;
+        }
     }
 
 

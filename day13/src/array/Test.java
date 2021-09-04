@@ -31,5 +31,10 @@ public class Test {
         System.out.println(arr.size());
         System.out.println(arr.indexOf("a123s"));
         System.out.println(arr.count("as"));
+        arr.shuffle();
+        System.out.println(arr.display());
+        arr.reverse();
+        System.out.println(arr.display());
+
     }
 }
