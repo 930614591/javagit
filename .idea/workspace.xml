@@ -59,7 +59,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Demo1 (1)">
+  <component name="RunManager" selected="Application.demotow">
     <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="listDemo.Demo1" />
       <module name="gitee" />
@@ -99,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itwn.main.TankTest" />
-      <module name="gitee" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itwn.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.Test" />
       <module name="gitee" />
@@ -125,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demotow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listDemo.demotow" />
+      <module name="gitee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demotow" />
         <item itemvalue="Application.Demo1 (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Poker" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.TankTest" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,7 @@
       <workItem from="1630761174032" duration="23000" />
       <workItem from="1630761219954" duration="195000" />
       <workItem from="1630811012435" duration="1213000" />
-      <workItem from="1630819781044" duration="1281000" />
+      <workItem from="1630819781044" duration="2265000" />
     </task>
     <servers />
   </component>
