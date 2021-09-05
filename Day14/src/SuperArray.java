@@ -84,7 +84,7 @@ public class SuperArray<T> {
      * 查询元素
      * 通过指定的索引类获取这个索引处的值
      * */
-    public  Object get(int index){
+    public  T get(int index){
         rangeCheck(index);//检查是否越界
         return array[index];
         //return "警告：数组越界或者不存在此索引【"+index+"】";
@@ -104,9 +104,9 @@ public class SuperArray<T> {
     /*
      * 4.删除指定的索引位置
      * */
-    public Object remmov(int index){
+    public T remmov(int index){
         rangeCheck(index);//检查是否越界
-        Object temp=array[index];
+        T temp=array[index];
         if(index==size){//如果是最后一个，置null并结束
             array[index]=null;
             return  temp;
@@ -114,7 +114,7 @@ public class SuperArray<T> {
         for(int i=index;i<size;i++){
             array[i]=array[i+1];//被删除后的元素整体向前移动
         }
-        if(index<size)size--;else return "";//保障size准确
+        if(index<size)size--;else return (T) "";//保障size准确
         return temp;
     }
 
