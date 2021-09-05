@@ -13,6 +13,7 @@ public class demotow {
         list.add(1);
         list.add(2);
         list.add(3);
+        //指定位置插入元素，实现重载
         list.add(2,999);
         //list.add("1");
         //2. 查看集合元素个数
@@ -20,6 +21,9 @@ public class demotow {
         //。3、像集指定位置合中覆盖元素
         list.set(1,998);
         System.out.println(list);
-
+        //。4.删除元素
+        list.remove(0);//索引优先删除
+        System.out.println(list);
+        //list.remove("998");
     }
 }
