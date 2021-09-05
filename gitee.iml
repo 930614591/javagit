@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Day09/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day14/src" isTestSource="false" packagePrefix="array" />
       <sourceFolder url="file://$MODULE_DIR$/HelloWord/md" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HelloWord/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SwingDemo/src" isTestSource="false" />

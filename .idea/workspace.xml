@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/Day09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/Day10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWord/HelloWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwingDemo/SwingDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TankWarDemo/TankWarDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitee.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/src/MyArray2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day07/Day07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/Day07.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day12/Day12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day13/day13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/array/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/day13/src/array/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/array/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day13/src/array/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gitee.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +45,18 @@
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eclipse\java_ee\gitee\Day14\src\home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\eclipse\java_ee\gitee\Day14" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Demo3">
     <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -151,7 +150,7 @@
       <workItem from="1630761174032" duration="23000" />
       <workItem from="1630761219954" duration="195000" />
       <workItem from="1630811012435" duration="1213000" />
-      <workItem from="1630819781044" duration="5673000" />
+      <workItem from="1630819781044" duration="8148000" />
     </task>
     <servers />
   </component>

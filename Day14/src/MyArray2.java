@@ -7,19 +7,19 @@ import java.util.Random;
 * @authon long
 * @version 1.0.0
 * */
-public class MyArray {
+public class MyArray2 {
     private  static  final int DEFSULT_CAPACITY=10;//数组的默认容量10 默认长度
     private  int capacity;//初始容量，自定义容量
-    private  Object[] array;//自定义数组///new String[DEFSULT_CAPACITY];
+    private  String[] array;//自定义数组///new String[DEFSULT_CAPACITY];
     private  int size;//记录已经存到那个位置了
 
-    public MyArray(){
+    public MyArray2(){
         super();
         capacity=DEFSULT_CAPACITY;
         array=new String[capacity];//无参默认创建的数组长度就是10
     }
 
-    public MyArray(int capacity){
+    public MyArray2(int capacity){
         super();
         this.capacity=capacity;
         array=new String[capacity];//无参默认创建的数组长度就是10
@@ -53,7 +53,7 @@ public class MyArray {
     private void grow() {
         capacity=capacity+(capacity>>1);//新数组的容量 扩容1.5倍
         //2.创建新数组
-        Object [] newArray=new String[capacity];
+        String [] newArray=new String[capacity];
         //3.将以前旧数组的全部数据依次放到新数组中
         for (int i = 0; i< size; i++){    //index实际上就是真正的元素个数，有几个元素就复制几个元素
             newArray[i]=array[i];
@@ -84,7 +84,7 @@ public class MyArray {
     * 查询元素
     * 通过指定的索引类获取这个索引处的值
     * */
-    public  Object get(int index){
+    public  String get(int index){
         rangeCheck(index);//检查是否越界
         return array[index];
         //return "警告：数组越界或者不存在此索引【"+index+"】";
@@ -104,9 +104,9 @@ public class MyArray {
     /*
     * 4.删除指定的索引位置
     * */
-    public Object remmov(int index){
+    public String remmov(int index){
         rangeCheck(index);//检查是否越界
-        Object temp=array[index];
+        String temp=array[index];
         if(index==size){//如果是最后一个，置null并结束
             array[index]=null;
             return  temp;
@@ -181,7 +181,7 @@ public class MyArray {
 
     private void swap(int index){
         for (int i=0;i<size;i++){
-            Object temp=array[i];
+            String temp=array[i];
             array[i]=array[index];
             array[index]=temp;
         }
@@ -193,7 +193,7 @@ public class MyArray {
     * */
     public  void reverse(){
         for (int left=0,right=size-1;left<right;left++,right--){
-            Object temp=array[left];
+            String temp=array[left];
             array[left]=array[right];
             array[right]=temp;
         }
