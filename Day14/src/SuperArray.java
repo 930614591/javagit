@@ -7,27 +7,27 @@ import java.util.Random;
  * @authon long
  * @version 1.0.0
  * */
-public class SuperArray {
+public class SuperArray<T> {
     private  static  final int DEFSULT_CAPACITY=10;//数组的默认容量10 默认长度
     private  int capacity;//初始容量，自定义容量
-    private  Object[] array;//自定义数组///new String[DEFSULT_CAPACITY];
+    private  T[] array;//自定义数组///new String[DEFSULT_CAPACITY];
     private  int size;//记录已经存到那个位置了
 
     public SuperArray(){
         super();
         capacity=DEFSULT_CAPACITY;
-        array=new Object[capacity];//无参默认创建的数组长度就是10
+        array=(T[])new Object[capacity];//无参默认创建的数组长度就是10
     }
 
     public SuperArray(int capacity){
         super();
         this.capacity=capacity;
-        array=new Object[capacity];//无参默认创建的数组长度就是10
+        array=(T[])new Object[capacity];//无参默认创建的数组长度就是10
     }
     /*
      * 1.数组中添加元素
      * */
-    public boolean add(Object obj){
+    public boolean add(T obj){
         //1 判断容量并扩容
         ensureCapacity(size +1);//表示先判断在存放下个元素前，是否需要先扩容 保证先扩容再存放
         //将元素存入数组中
@@ -53,7 +53,7 @@ public class SuperArray {
     private void grow() {
         capacity=capacity+(capacity>>1);//新数组的容量 扩容1.5倍
         //2.创建新数组
-        Object [] newArray=new String[capacity];
+        T[] newArray= (T[]) new String[capacity];
         //3.将以前旧数组的全部数据依次放到新数组中
         for (int i = 0; i< size; i++){    //index实际上就是真正的元素个数，有几个元素就复制几个元素
             newArray[i]=array[i];
@@ -95,7 +95,7 @@ public class SuperArray {
      * index 索引
      * value 待更新的值
      * */
-    public void update(int index,String value){
+    public void update(int index,T value){
         rangeCheck(index);//检查是否越界
         array[index]=value;//用新值覆盖旧数据
 
@@ -181,7 +181,7 @@ public class SuperArray {
 
     private void swap(int index){
         for (int i=0;i<size;i++){
-            Object temp=array[i];
+            T temp=array[i];
             array[i]=array[index];
             array[index]=temp;
         }
@@ -193,7 +193,7 @@ public class SuperArray {
      * */
     public  void reverse(){
         for (int left=0,right=size-1;left<right;left++,right--){
-            Object temp=array[left];
+            T temp=array[left];
             array[left]=array[right];
             array[right]=temp;
         }
