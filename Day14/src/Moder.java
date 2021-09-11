@@ -3,7 +3,8 @@ package array;
 //public class Moder<T,E> {
 public class Moder<T> { //泛型的替换原则，一改全改
     private T obj;
-    private  T[] array;
+    private  T[] array=(T[])new Object[12];
+//    无法直接创建泛型数组，只能强转
     public void test(T obj){
         System.out.println(obj);
     }
