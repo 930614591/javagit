@@ -11,7 +11,7 @@ import java.util.Random;
 public class UniformRandomNumber_False {
     public static void main(String[] args) {
         for (int i = 0; i <10 ; i++) {
-            int o=rand10();
+            int o=rand100();
             if(o==10){
                 System.out.println("宁难道就是欧皇吗？居然抽到了10！");
             }else
@@ -32,6 +32,19 @@ public class UniformRandomNumber_False {
                 return num;
             }
         }
+    }
+    private static int rand128(){
+        return (rand16()-1)*8+rand8();
+    }
+    private static int rand100(){
+
+        while (true) {
+            int num=rand128();
+            if (num <= 100) {
+                return num;
+            }
+        }
+
     }
 
 
