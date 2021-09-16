@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/likou/src/UniformRandomNumber_False.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likou/src/均匀随机数.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +164,7 @@
       <workItem from="1631628138474" duration="187000" />
       <workItem from="1631628355893" duration="2857000" />
       <workItem from="1631711014357" duration="11873000" />
-      <workItem from="1631792855542" duration="5298000" />
+      <workItem from="1631792855542" duration="6385000" />
     </task>
     <servers />
   </component>
