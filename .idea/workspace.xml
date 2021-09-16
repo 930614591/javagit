@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/21天算法训练/src/Day2/Demo1SquareSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21天算法训练/src/Day2/Demo2RotateTheArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo1SquareSorting">
+  <component name="RunManager" selected="Application.Demo2RotateTheArray">
     <configuration name="Demo1BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.Demo1BinarySearch" />
       <module name="21天算法训练" />
@@ -104,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo2RotateTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Demo2RotateTheArray" />
+      <module name="21天算法训练" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo3SearchForInsertionPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.Demo3SearchForInsertionPosition" />
       <module name="21天算法训练" />
@@ -117,20 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="likou" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2RotateTheArray" />
         <item itemvalue="Application.Demo1SquareSorting" />
         <item itemvalue="Application.Demo3SearchForInsertionPosition" />
         <item itemvalue="Application.Demo2FindingSpecifiedErrors" />
         <item itemvalue="Application.Demo1BinarySearch" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +162,7 @@
       <workItem from="1631489809431" duration="762000" />
       <workItem from="1631628138474" duration="187000" />
       <workItem from="1631628355893" duration="2857000" />
-      <workItem from="1631711014357" duration="7707000" />
+      <workItem from="1631711014357" duration="10417000" />
     </task>
     <servers />
   </component>
