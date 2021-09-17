@@ -27,7 +27,7 @@ public class ValidSudoku {
         }
 
         for (int i = 0; i <n1; i+=3) {
-            for(int z=0;z<n2;z+=3) {//每九个一循环
+            for(int z=0;z<n2;z+=3) {//每九个一循环，每次跳过九个小方块
 
                 String[] temp = new String[9];
                 int temp2=0;
