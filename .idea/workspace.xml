@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="Class" />
         <option value="temp" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -160,6 +160,8 @@
       <workItem from="1631711014357" duration="11873000" />
       <workItem from="1631792855542" duration="7631000" />
       <workItem from="1631803747123" duration="481000" />
+      <workItem from="1631804264699" duration="2027000" />
+      <workItem from="1631855948449" duration="392000" />
     </task>
     <servers />
   </component>

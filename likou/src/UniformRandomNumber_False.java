@@ -10,12 +10,12 @@ import java.util.Random;
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。*/
 public class UniformRandomNumber_False {
     public static void main(String[] args) {
-        for (int i = 0; i <10 ; i++) {
+        for (int i = 0; i <100 ; i++) {
             int o=rand100();
             if(o==10){
                 System.out.println("宁难道就是欧皇吗？居然抽到了10！");
-            }else
-            System.out.println(o+"加油，下次一定！");
+            }//else
+            //System.out.println(o+"加油，下次一定！");
         }
     }
     public static int rand8() {
