@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/likou/src/ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/likou/src/UniformRandomNumber_False.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/UniformRandomNumber_False.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,26 +66,13 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniformRandomNumber_False">
+  <component name="RunManager" selected="Application.ValidSudoku">
     <configuration name="Demo1SquareSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day2.Demo1SquareSorting" />
       <module name="21天算法训练" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2FindingSpecifiedErrors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Demo2FindingSpecifiedErrors" />
-      <module name="21天算法训练" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,13 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidSudoku" />
+      <module name="likou" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidSudoku" />
         <item itemvalue="Application.UniformRandomNumber_False" />
         <item itemvalue="Application.Demo2RotateTheArray" />
         <item itemvalue="Application.Demo1SquareSorting" />
         <item itemvalue="Application.Demo3SearchForInsertionPosition" />
-        <item itemvalue="Application.Demo2FindingSpecifiedErrors" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +156,7 @@
       <workItem from="1631792855542" duration="7631000" />
       <workItem from="1631803747123" duration="481000" />
       <workItem from="1631804264699" duration="2027000" />
-      <workItem from="1631855948449" duration="933000" />
+      <workItem from="1631855948449" duration="5940000" />
     </task>
     <servers />
   </component>
