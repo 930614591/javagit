@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day14/src/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.Demo1" />
       <module name="gitee" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1SquareSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Demo1SquareSorting" />
+    <configuration name="Demo2RotateTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Demo2RotateTheArray" />
       <module name="21天算法训练" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2RotateTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.Demo2RotateTheArray" />
-      <module name="21天算法训练" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Student" />
+      <module name="gitee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.ValidSudoku" />
         <item itemvalue="Application.UniformRandomNumber_False" />
         <item itemvalue="Application.Demo2RotateTheArray" />
-        <item itemvalue="Application.Demo1SquareSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,10 @@
       <workItem from="1631804264699" duration="2027000" />
       <workItem from="1631855948449" duration="7729000" />
       <workItem from="1631870549985" duration="198000" />
-      <workItem from="1631884577788" duration="3236000" />
+      <workItem from="1631884577788" duration="4997000" />
+      <workItem from="1632061995395" duration="379000" />
+      <workItem from="1632062545406" duration="1806000" />
+      <workItem from="1632107632105" duration="1214000" />
     </task>
     <servers />
   </component>
