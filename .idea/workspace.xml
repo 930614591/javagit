@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day14/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Last_word_length">
+  <component name="RunManager" selected="Application.Demo1The_middle_node_of_a_linked_list">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.Demo1" />
       <module name="gitee" />
@@ -121,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Last_word_length" />
         <item itemvalue="Application.Demo1The_middle_node_of_a_linked_list" />
+        <item itemvalue="Application.Last_word_length" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.ValidSudoku" />
@@ -161,7 +161,9 @@
       <workItem from="1632061995395" duration="379000" />
       <workItem from="1632062545406" duration="1806000" />
       <workItem from="1632107632105" duration="4925000" />
-      <workItem from="1632209948896" duration="2669000" />
+      <workItem from="1632209948896" duration="3381000" />
+      <workItem from="1632215792453" duration="2312000" />
+      <workItem from="1632218143163" duration="2759000" />
     </task>
     <servers />
   </component>
