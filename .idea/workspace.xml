@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/src/ListDemo/StuDent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/src/ListDemo/listDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/src/ListDemo/studenttest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day14/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,29 +66,17 @@
       <recent name="D:\eclipse\java_ee\gitee\Day14" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day5" />
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo1The_middle_node_of_a_linked_list">
+  <component name="RunManager" selected="Application.studenttest">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.Demo1" />
       <module name="gitee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1The_middle_node_of_a_linked_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.Demo1The_middle_node_of_a_linked_list" />
-      <module name="21天算法训练" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="array.ListDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +96,7 @@
       <module name="gitee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.ListDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="studenttest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ListDemo.studenttest" />
+      <module name="gitee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.ListDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo1The_middle_node_of_a_linked_list" />
-        <item itemvalue="Application.Last_word_length" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.studenttest" />
         <item itemvalue="Application.ValidSudoku" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Last_word_length" />
+        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +168,14 @@
       <workItem from="1632107632105" duration="4925000" />
       <workItem from="1632209948896" duration="3381000" />
       <workItem from="1632215792453" duration="2312000" />
-      <workItem from="1632218143163" duration="2759000" />
+      <workItem from="1632218143163" duration="5843000" />
+      <workItem from="1632263503896" duration="151000" />
+      <workItem from="1632263684319" duration="1261000" />
+      <workItem from="1632279980089" duration="787000" />
+      <workItem from="1632300260984" duration="1196000" />
+      <workItem from="1632740186831" duration="653000" />
+      <workItem from="1632741575251" duration="4961000" />
+      <workItem from="1632751951297" duration="1924000" />
     </task>
     <servers />
   </component>
