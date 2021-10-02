@@ -1,7 +1,9 @@
 package array.ListDemo1.ListDemo;
 
 import java.util.Vector;
-
+/*
+* ArrayList 与 LinkeList、Vector之间的区别和联系
+* */
 public class VectorDemo {
     public static void main(String[] args) {
         //1.老集合（安全的）底层是数组

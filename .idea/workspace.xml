@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day14/src/ListDemo1/ListDemo/VectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/src/setDemo/HashSetDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day14/src/ListDemo1/ListDemo/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day14/src/ListDemo1/ListDemo/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/ListDemo1/ListDemo/VectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day14/src/ListDemo1/ListDemo/VectorDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +68,13 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VectorDemo">
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ListDemo1.ListDemo.LinkedListDemo" />
+  <component name="RunManager" selected="Application.HashSetDemo">
+    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.setDemo.HashSetDemo" />
       <module name="gitee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ListDemo1.ListDemo.*" />
+          <option name="PATTERN" value="array.setDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Student" />
+    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ListDemo1.ListDemo.LinkedListDemo" />
       <module name="gitee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ListDemo.*" />
+          <option name="PATTERN" value="array.ListDemo1.ListDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetDemo" />
         <item itemvalue="Application.VectorDemo" />
         <item itemvalue="Application.LinkedListDemo" />
         <item itemvalue="Application.studenttest" />
         <item itemvalue="Application.ValidSudoku" />
-        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,7 @@
       <workItem from="1632740186831" duration="653000" />
       <workItem from="1632741575251" duration="4961000" />
       <workItem from="1632751951297" duration="2428000" />
-      <workItem from="1633109196741" duration="7747000" />
+      <workItem from="1633109196741" duration="9984000" />
     </task>
     <servers />
   </component>
