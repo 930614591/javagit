@@ -1,0 +1,12 @@
+重点
+1.复习数据结构，熟悉各种数据结构的有点
+2.二叉查找树的遍历（前序，中序，后续）
+2.集合的常用方法（增删改查）
+
+作业
+1.ArrayList与LinkedList、Vector之间的区别
+1、Cistomer（id，name，source，industry，address），创建三个客户放入ArrayList，其中第四个客户时不小心录入的，请去重
+2.使用LinkedList来模拟栈MyStack（FILO），和队列MyQueue（FIFO）的结构
+3、使用HashSet来存放五个学生的信息，且去重
+4、使用集合相关知识完成斗地主初始化牌，洗牌、发牌，判断玩家是否有炸弹
+5、使用集合相关知识实现登陆注册功能
