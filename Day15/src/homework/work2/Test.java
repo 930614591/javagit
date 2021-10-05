@@ -2,7 +2,7 @@ package homework.work2;
 
 public class Test {
     public static void main(String[] args) {
-        MyStack myStack=new MyStack();
+        MyStack<Integer> myStack=new MyStack<>();
         myStack.push(1);
         myStack.push(2);
         myStack.push(3);

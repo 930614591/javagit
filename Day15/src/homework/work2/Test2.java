@@ -2,7 +2,7 @@ package homework.work2;
 
 public class Test2 {
     public static void main(String[] args) {
-        MyQueue queue=new MyQueue();
+        MyQueue<Integer> queue=new MyQueue<>();
         /*
         * 先进先出，后进后出
         * */
