@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day15/src/homework/work2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day15/src/homework/work2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day15/src/homework/work3/Poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day15/src/homework/work3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +68,26 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test2">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.setDemo.HashSetDemo" />
       <module name="gitee" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="array.setDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.work3.Test" />
+      <module name="Day15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.work3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,19 +121,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ListDemo1.ListDemo.VectorDemo" />
-      <module name="gitee" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.ListDemo1.ListDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Work1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.work1.Work1" />
       <module name="Day15" />
@@ -135,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Work1" />
         <item itemvalue="Application.HashSetDemo" />
-        <item itemvalue="Application.VectorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +188,7 @@
       <workItem from="1632751951297" duration="2428000" />
       <workItem from="1633109196741" duration="18479000" />
       <workItem from="1633281095864" duration="543000" />
-      <workItem from="1633281674968" duration="5440000" />
+      <workItem from="1633281674968" duration="8303000" />
     </task>
     <servers />
   </component>
