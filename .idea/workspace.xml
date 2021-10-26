@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day15/src/homework/setDemo/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/day16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work3/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day15/src/homework/work3/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day15/src/homework/work3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +52,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.9" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day14/src/ListDemo1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -74,13 +77,13 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Test4">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.mapDemo.Test1" />
-      <module name="Day15" />
+  <component name="RunManager" selected="应用程序.CollectionsDemo">
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.CollectionsDemo" />
+      <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.mapDemo.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.mapDemo.Test4" />
-      <module name="Day15" />
+    <configuration name="MathUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.MathUtil" />
+      <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.mapDemo.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Work1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.work1.Work1" />
-      <module name="Day15" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Test" />
+      <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.work1.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test4" />
+        <item itemvalue="应用程序.CollectionsDemo" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.MathUtil" />
         <item itemvalue="应用程序.test3" />
         <item itemvalue="应用程序.test2" />
-        <item itemvalue="应用程序.Test1" />
-        <item itemvalue="应用程序.Work1" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +205,17 @@
       <workItem from="1634040941942" duration="1101000" />
       <workItem from="1634097667247" duration="311000" />
       <workItem from="1634123676815" duration="6149000" />
-      <workItem from="1634525635231" duration="3241000" />
+      <workItem from="1634525635231" duration="4546000" />
+      <workItem from="1634567458528" duration="1584000" />
+      <workItem from="1634648282755" duration="38000" />
+      <workItem from="1634648341461" duration="150000" />
+      <workItem from="1634825225883" duration="152000" />
+      <workItem from="1634825403311" duration="1365000" />
+      <workItem from="1634978336659" duration="624000" />
+      <workItem from="1634979012369" duration="292000" />
+      <workItem from="1634979529476" duration="1558000" />
+      <workItem from="1635002061273" duration="77000" />
+      <workItem from="1635252592792" duration="2433000" />
     </task>
     <servers />
   </component>
