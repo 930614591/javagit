@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/day16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/demo/CollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/demo/MathUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/demo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +71,7 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CollectionsDemo">
+  <component name="RunManager" selected="应用程序.Test (1)">
     <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo.CollectionsDemo" />
       <module name="day16" />
@@ -104,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Test" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2.Test" />
       <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.mapDemo.test2" />
-      <module name="Day15" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Test" />
+      <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.mapDemo.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test (1)" />
         <item itemvalue="应用程序.CollectionsDemo" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.MathUtil" />
         <item itemvalue="应用程序.test3" />
-        <item itemvalue="应用程序.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +209,7 @@
       <workItem from="1634979012369" duration="292000" />
       <workItem from="1634979529476" duration="1558000" />
       <workItem from="1635002061273" duration="77000" />
-      <workItem from="1635252592792" duration="2433000" />
+      <workItem from="1635252592792" duration="2716000" />
     </task>
     <servers />
   </component>
