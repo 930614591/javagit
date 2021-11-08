@@ -23,5 +23,7 @@ public class Test3 {
                 e.printStackTrace();
             }
         }
+        //删除此文件
+        //file.delete();//不进回收站（不要操作c盘，有顶级权限）
     }
 }
