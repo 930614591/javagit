@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day16/src/demo2/AgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/demo2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/demo2/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/demo2/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/demo2/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo3/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo3/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/text/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/src/list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/src/栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/数据结构.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +40,16 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="16" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="16" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="2" />
   </component>
@@ -52,11 +68,12 @@
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.splitter.proportion" value="0.29411766" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -75,39 +92,13 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Test4">
-    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.CollectionsDemo" />
+  <component name="RunManager" selected="应用程序.Test3">
+    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.FileDemo1" />
       <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo2.Test" />
-      <module name="day16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Test" />
-      <module name="day16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.Test3" />
+      <module name="day16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo2.Test4" />
       <module name="day16" />
@@ -141,13 +145,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list" />
+      <module name="数据结构" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test3" />
+        <item itemvalue="应用程序.FileDemo1" />
+        <item itemvalue="应用程序.list" />
         <item itemvalue="应用程序.Test4" />
         <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.Test (1)" />
-        <item itemvalue="应用程序.CollectionsDemo" />
-        <item itemvalue="应用程序.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +224,15 @@
       <workItem from="1634979012369" duration="292000" />
       <workItem from="1634979529476" duration="1558000" />
       <workItem from="1635002061273" duration="77000" />
-      <workItem from="1635252592792" duration="6864000" />
+      <workItem from="1635252592792" duration="7844000" />
+      <workItem from="1635316640415" duration="2520000" />
+      <workItem from="1635415585062" duration="2486000" />
+      <workItem from="1635428821051" duration="250000" />
+      <workItem from="1635429116646" duration="174000" />
+      <workItem from="1635572139254" duration="609000" />
+      <workItem from="1636037558715" duration="10149000" />
+      <workItem from="1636380581136" duration="855000" />
+      <workItem from="1636381477595" duration="1728000" />
     </task>
     <servers />
   </component>
