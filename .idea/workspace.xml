@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/day16/src/demo3/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day16/src/demo3/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo3/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/src/demo3/fileutil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,7 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Test3">
+  <component name="RunManager" selected="应用程序.Test4 (1)">
     <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo3.FileDemo1" />
       <module name="day16" />
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo2.Test2" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.Test3" />
       <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo2.*" />
+          <option name="PATTERN" value="demo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo3.Test3" />
+    <configuration name="Test4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3.Test4" />
       <module name="day16" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test4 (1)" />
         <item itemvalue="应用程序.Test3" />
         <item itemvalue="应用程序.FileDemo1" />
         <item itemvalue="应用程序.list" />
         <item itemvalue="应用程序.Test4" />
-        <item itemvalue="应用程序.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +226,8 @@
       <workItem from="1635572139254" duration="609000" />
       <workItem from="1636037558715" duration="10149000" />
       <workItem from="1636380581136" duration="855000" />
-      <workItem from="1636381477595" duration="1969000" />
+      <workItem from="1636381477595" duration="2540000" />
+      <workItem from="1636463615580" duration="877000" />
     </task>
     <servers />
   </component>
