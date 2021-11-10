@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Day17/Day17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day17/src/Filedemo/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day17/src/Filedemo/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/Filedemo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day17/src/Filedemo/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,9 @@
     <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1xfUIiUBnAOCRbErAA2ALg1aQBX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -228,7 +229,11 @@
       <workItem from="1636037558715" duration="10149000" />
       <workItem from="1636380581136" duration="855000" />
       <workItem from="1636381477595" duration="2540000" />
-      <workItem from="1636463615580" duration="3605000" />
+      <workItem from="1636463615580" duration="3986000" />
+      <workItem from="1636519180132" duration="1206000" />
+      <workItem from="1636534238646" duration="1616000" />
+      <workItem from="1636540729311" duration="1395000" />
+      <workItem from="1636545040656" duration="366000" />
     </task>
     <servers />
   </component>

@@ -23,8 +23,9 @@ public class Demo1 {
         //2.构建一个文件对象
         File file=new File(dir,filename);
         //判断文件夹否存在
-        if (!file.exists()){
+        if (!file.exists()) {
             file.createNewFile();//创建文件
+
         }
 
 
