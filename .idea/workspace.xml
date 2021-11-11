@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Day17/src/Filedemo/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day17/src/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day17/src/inputDemo/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,20 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo1">
+  <component name="RunManager" selected="应用程序.Demo1 (1)">
+    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputDemo.Demo1" />
+      <module name="Day17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inputDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Filedemo.Demo1" />
       <module name="Day17" />
@@ -141,20 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list" />
-      <module name="数据结构" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Demo1 (1)" />
         <item itemvalue="应用程序.Demo1" />
         <item itemvalue="应用程序.Test4 (1)" />
         <item itemvalue="应用程序.Test3" />
         <item itemvalue="应用程序.FileDemo1" />
-        <item itemvalue="应用程序.list" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +242,7 @@
       <workItem from="1636540729311" duration="1395000" />
       <workItem from="1636545040656" duration="1264000" />
       <workItem from="1636546711244" duration="2096000" />
-      <workItem from="1636637113412" duration="251000" />
+      <workItem from="1636637113412" duration="1596000" />
     </task>
     <servers />
   </component>
