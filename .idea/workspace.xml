@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/Day17/src/inputDemo/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day17/src/inputDemo/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day17/src/inputDemo/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day17/src/inputDemo/demo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day17/src/inputDemo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day17/src/inputDemo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day17/src/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day17/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day17/1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +93,7 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo1 (1)">
+  <component name="RunManager" selected="应用程序.Demo6">
     <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inputDemo.Demo1" />
       <module name="Day17" />
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Filedemo.Demo1" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputDemo.Demo4" />
       <module name="Day17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Filedemo.*" />
+          <option name="PATTERN" value="inputDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo3.FileDemo1" />
-      <module name="day16" />
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputDemo.Demo5" />
+      <module name="Day17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo3.*" />
+          <option name="PATTERN" value="inputDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo3.Test3" />
-      <module name="day16" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputDemo.Demo6" />
+      <module name="Day17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo3.*" />
+          <option name="PATTERN" value="inputDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo3.Test4" />
-      <module name="day16" />
+    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputDemo.demo3" />
+      <module name="Day17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo3.*" />
+          <option name="PATTERN" value="inputDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Demo6" />
+        <item itemvalue="应用程序.Demo5" />
+        <item itemvalue="应用程序.Demo4" />
+        <item itemvalue="应用程序.demo3" />
         <item itemvalue="应用程序.Demo1 (1)" />
-        <item itemvalue="应用程序.Demo1" />
-        <item itemvalue="应用程序.Test4 (1)" />
-        <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.FileDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +246,10 @@
       <workItem from="1636540729311" duration="1395000" />
       <workItem from="1636545040656" duration="1264000" />
       <workItem from="1636546711244" duration="2096000" />
-      <workItem from="1636637113412" duration="3321000" />
+      <workItem from="1636637113412" duration="4504000" />
+      <workItem from="1636693853606" duration="594000" />
+      <workItem from="1636705078820" duration="4374000" />
+      <workItem from="1636728325763" duration="3483000" />
     </task>
     <servers />
   </component>
