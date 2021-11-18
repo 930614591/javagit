@@ -1,17 +1,16 @@
 package FileUtile;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-/*
-* 文本文件考虑使用字符流，（不需要太关注编码问题）
-* 多媒体文件（视频音频）使用字节流；（再复制文本时有可能因为缓冲区设置不当造成乱码问题）
-* 文本一律使用字符流，多媒体文件一律使用字节流处理
-* */
-public class Fileutil {
-    public static void copyMedia(String oldFile,String newFile) throws IOException {
 
+import java.io.*;
+import java.lang.String;
+
+/*
+ * 文本文件考虑使用字符流，（不需要太关注编码问题）
+ * 多媒体文件（视频音频）使用字节流；（再复制文本时有可能因为缓冲区设置不当造成乱码问题）
+ * 文本一律使用字符流，多媒体文件一律使用字节流处理
+ * */
+public class fileutil {
+    public static void copyMedia(String oldFile,String newFile) throws IOException {
         if (oldFile==null || "".equals(oldFile)|| newFile==null || "".equals(newFile)){
             System.out.println("请传入正确的文件路径！");
             return;
