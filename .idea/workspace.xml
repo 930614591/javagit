@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Day18/src/Demo3/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day18/src/Demo3/MainUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day18/src/Demo3/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day18/src/Demo3/UserUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18/src/Demo4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18/src/Demo4/db.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day18/src/Demo3/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.29411766" />
   </component>
   <component name="RecentsManager">
@@ -136,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Test1" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo4.Test" />
       <module name="Day18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo.*" />
+          <option name="PATTERN" value="Demo4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,15 +161,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.MainUI" />
-        <item itemvalue="应用程序.PropertiesDemo2" />
-        <item itemvalue="应用程序.PropertiesDemo" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.Test1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -263,7 +253,12 @@
       <workItem from="1637160299751" duration="699000" />
       <workItem from="1637237808114" duration="2074000" />
       <workItem from="1637303044711" duration="5965000" />
-      <workItem from="1637372568872" duration="4960000" />
+      <workItem from="1637372568872" duration="10230000" />
+      <workItem from="1637478577456" duration="459000" />
+      <workItem from="1637479089986" duration="25000" />
+      <workItem from="1637936879774" duration="41000" />
+      <workItem from="1637937620856" duration="13000" />
+      <workItem from="1638535864432" duration="624000" />
     </task>
     <servers />
   </component>

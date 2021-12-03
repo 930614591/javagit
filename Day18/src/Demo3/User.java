@@ -1,8 +1,14 @@
 package Demo3;
+
+import java.io.Serializable;
+
 /*
 * 用户实体类
+* Serializable:序列化的标记注解（本身是个空类，）
 * */
-public class User {
+public class User implements Serializable {
+    //保证序列化与反序列化的版本一致
+    private static final long seriaLVersionUID=1l;
     private Long id;
     private String uname;
     private String pwd;
