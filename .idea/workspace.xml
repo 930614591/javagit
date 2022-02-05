@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Day18/src/Demo4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day18/src/Demo4/db.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/src/t1/testPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/erweishuzu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day18/src/Demo3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day18/src/Demo3/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gitee.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -66,6 +72,10 @@
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.15" />
@@ -95,33 +105,7 @@
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MainUI">
-    <configuration name="MainUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo3.MainUI" />
-      <module name="Day18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Demo3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PropertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo2.PropertiesDemo" />
-      <module name="Day18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.erweishuzu">
     <configuration name="PropertiesDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo2.PropertiesDemo2" />
       <module name="Day18" />
@@ -161,6 +145,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="erweishuzu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="erweishuzu" />
+      <module name="gitee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1" />
+      <module name="gitee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.erweishuzu" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -259,6 +262,14 @@
       <workItem from="1637936879774" duration="41000" />
       <workItem from="1637937620856" duration="13000" />
       <workItem from="1638535864432" duration="624000" />
+      <workItem from="1641741032786" duration="1553000" />
+      <workItem from="1641742642735" duration="4657000" />
+      <workItem from="1642259329899" duration="28000" />
+      <workItem from="1642661458298" duration="659000" />
+      <workItem from="1642827988177" duration="169000" />
+      <workItem from="1643134386862" duration="460000" />
+      <workItem from="1643169477350" duration="1127000" />
+      <workItem from="1643988595604" duration="1484000" />
     </task>
     <servers />
   </component>
@@ -275,7 +286,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
