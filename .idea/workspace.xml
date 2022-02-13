@@ -5,13 +5,269 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/gui/src/t1/testPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/erweishuzu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/src/t1/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新手/testScanner/src/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新手/testScanner/src/t2Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新手/testScanner/src/tScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/21天算法训练.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/21天算法训练.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day2/Demo1SquareSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/Day2/Demo1SquareSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day2/Demo2RotateTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/Day2/Demo2RotateTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day3双指针/Demo1Mobile0.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/Day3双指针/Demo1Mobile0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day3双指针/Demo2SumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/Day3双指针/Demo2SumOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day4/Demo2InvertTheWordsInTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/Day4/Demo2InvertTheWordsInTheString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/Day5/Demo1The_middle_node_of_a_linked_list2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/day1/Demo1BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/day1/Demo1BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/day1/Demo2FindingSpecifiedErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/day1/Demo2FindingSpecifiedErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14天算法训练/src/day1/Demo3SearchForInsertionPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/14天算法训练/src/day1/Demo3SearchForInsertionPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/.project" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/Day07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/Day07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/src/catdog/cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/src/catdog/cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/src/catdog/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/src/catdog/dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/src/catdog/dongwu.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/src/catdog/dongwu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/src/catdog/textdogmao.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/src/catdog/textdogmao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/src/com/woniu/demo/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/src/com/woniu/demo/MyMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/src/com/woniu/demo/cq.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day07/src/com/woniu/demo/cq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/.project" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/Day09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/Day09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/StringDemo/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/StringDemo/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/StringDemo/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/StringDemo/StringDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/com/li/dome2/DateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/com/li/dome2/DateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/com/li/dome2/DateDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/com/li/dome2/DateDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/com/li/home/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/com/li/home/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/com/li/home/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/com/li/home/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/com/li/home3/RandomTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/com/li/home3/RandomTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day09/src/com/li/home3/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day09/src/com/li/home3/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day10/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/.project" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day10/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/Day10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day10/Day10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10/src/com/li/demo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day10/src/com/li/demo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/Day13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day12/Day13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/src/com/li/demo1/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day12/src/com/li/demo1/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/src/com/li/demo1/a1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day12/src/com/li/demo1/a1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/src/com/li/demo1/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day12/src/com/li/demo1/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day12/src/com/li/demo1/tt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day12/src/com/li/demo1/tt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/ListDemo/StuDent.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/ListDemo/StuDent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/ListDemo/listDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/ListDemo/listDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/ListDemo/studenttest.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/ListDemo/studenttest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/ListDemo1/ListDemo/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/ListDemo1/ListDemo/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/ListDemo1/ListDemo/VectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/ListDemo1/ListDemo/VectorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/Moder.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/Moder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/MyArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/MyArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/SuperArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/SuperArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/SuperArrayTset.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/SuperArrayTset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/arraay.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/arraay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/h1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/h1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/setDemo/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/setDemo/HashSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/setDemo/作业.txt" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/setDemo/作业.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/testModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/testModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14/src/testMyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day14/src/testMyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/Day15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/Day15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/mapDemo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/mapDemo/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/mapDemo/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset6.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/mapDemo/Tset6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/Tset7.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/mapDemo/Tset7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/mapDemo/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/mapDemo/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/mapDemo/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/setDemo/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/setDemo/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work1/Work1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work1/Work1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work2/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work2/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work2/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work2/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work2/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work3/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work3/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day15/src/homework/work3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day15/src/homework/work3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/Day17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/Day17.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/FileUtile/fileutil.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/FileUtile/fileutil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/Filedemo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/Filedemo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/Filedemo/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/Filedemo/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/Filedemo/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/Filedemo/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/Filedemo/Demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/Filedemo/Demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/inputDemo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/inputDemo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/inputDemo/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/inputDemo/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/inputDemo/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/inputDemo/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/inputDemo/Demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/inputDemo/Demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day17/src/inputDemo/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day17/src/inputDemo/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/Day18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/Day18.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo2/PropertiesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo2/PropertiesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo2/PropertiesDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo2/PropertiesDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo2/info.properties" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo2/info.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo3/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo3/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo3/MainUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo3/MainUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo3/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo3/UserUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo3/UserUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/Demo4/db.txt" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/Demo4/db.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18/src/buffer/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/Day18/src/buffer/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/.project" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/HelloWord.iml" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/HelloWord.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/ex13_8.bak" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/ex13_8.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/md/Dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/md/Dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/md/Dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/md/Dao/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/md/Dao/UserDaoMysqlImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/md/Dao/UserDaoMysqlImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/md/Mytest/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/md/Mytest/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/md/Servic/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/md/Servic/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/md/Servic/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/md/Servic/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/rec/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/rec/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ArraysSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ArraysSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/CreThreadRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/CreThreadRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/CreateMoreThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/CreateMoreThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/Helloword.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/Helloword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/MySQL_UI/ex14_8_1BatchInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/MySQL_UI/ex14_8_1BatchInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/MySQL_UI/ex14_8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/MySQL_UI/ex14_8_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/SStringCutandSpingt.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/SStringCutandSpingt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/StringBufBasicOpenra.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/StringBufBasicOpenra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/StringBufferLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/StringBufferLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/StringFindandReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/StringFindandReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/T0601List.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/T0601List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/T1DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/T1DateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/T506Sort1Bnbble.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/T506Sort1Bnbble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/T53Targs.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/T53Targs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ThreadAsynchronous.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ThreadAsynchronous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ThreadCreAndStrart.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ThreadCreAndStrart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ToSolveThreadRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ToSolveThreadRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/asas.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/asas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex11_7/ThreadSleepWake.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex11_7/ThreadSleepWake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex11_7_2/ATMMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex11_7_2/ATMMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex11_7_2/CBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex11_7_2/CBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex11_7_2/CCashMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex11_7_2/CCashMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex11_7_2/CSyncBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex11_7_2/CSyncBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13/ex13_2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13/ex13_2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_2_4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_2_4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_2_4/RandomAccessFileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_2_4/RandomAccessFileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_10" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_5_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_5_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_5_1.txt0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_5_1.txt0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_5_1.txt1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_5_1.txt1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_5_1.txt2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_5_1.txt2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_8.bak" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_8.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_9.bak" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_9.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_3/ex13_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_3/ex13_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_5/ex13_5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_5/ex13_5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex13_5/ex13_5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex13_5/ex13_5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex14MySQL/MySQL14_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex14MySQL/MySQL14_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex14MySQL/mysql14_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex14MySQL/mysql14_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex14MySQL/mysql14_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex14MySQL/mysql14_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex15Network/ex1GetIpname.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex15Network/ex1GetIpname.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex15Network/ex3_1TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex15Network/ex3_1TCPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex15Network/ex3_2TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex15Network/ex3_2TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex15Network/ex4UdopCilent.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex15Network/ex4UdopCilent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex15Network/ex4_2UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex15Network/ex4_2UDPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex15Network/ex4_2chatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex15Network/ex4_2chatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex15Network/ex4_2chatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex15Network/ex4_2chatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex16UI/ex2CheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex16UI/ex2CheckBoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex16UI/ex2_3Swing.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex16UI/ex2_3Swing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex16UI/ex7_1TimerFlashBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex16UI/ex7_1TimerFlashBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ExceptionSimpleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ExceptionSimpleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex12_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex12_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/ex_12/ex_12_4_TrynestdealException.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/ex_12/ex_12_4_TrynestdealException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/exampie/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/exampie/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/exampie/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/exampie/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/exampie/ProducerAndconsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/exampie/ProducerAndconsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/exampie/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/exampie/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/indexOF.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/indexOF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/situ/T0805Inteface.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/situ/T0805Inteface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/situ/TestAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/situ/TestAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWord/src/situ/t09032.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/HelloWord/src/situ/t09032.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/SwingDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/SwingDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/image/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/image/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/src/com/itwn/main/ViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/src/com/itwn/main/ViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/src/com/itwn/main/ViewUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/src/com/itwn/main/ViewUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/src/com/itwn/view/MyUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/src/com/itwn/view/MyUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwingDemo/src/com/itwn/view/MyView.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/SwingDemo/src/com/itwn/view/MyView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/TankWarDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/TankWarDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/boss.png" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/boss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/star.png" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/地面.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/地面.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/水池.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/水池.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/砖墙.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/砖墙.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/英雄.png" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/英雄.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/草地.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/草地.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/image/铁块.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/image/铁块.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/src/com/itwn/main/TankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/src/com/itwn/main/TankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/src/com/itwn/pojo/Boom.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/src/com/itwn/pojo/Boom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/src/com/itwn/pojo/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/src/com/itwn/pojo/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/src/com/itwn/pojo/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/src/com/itwn/pojo/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/src/com/itwn/pojo/hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/src/com/itwn/pojo/hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/src/com/itwn/view/MainViewFream.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/src/com/itwn/view/MainViewFream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankWarDemo/src/com/itwn/view/MainViewPan.java" beforeDir="false" afterPath="$PROJECT_DIR$/新手/TankWarDemo/src/com/itwn/view/MainViewPan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/Work1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/Work1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/array/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/array/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/array/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/array/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/demo1/Work10.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/demo1/Work10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/demo1/Work2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/demo1/Work2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/demo1/Work7.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/demo1/Work7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/demo1/Work8.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/demo1/Work8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/demo1/Work9.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/demo1/Work9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/demo1/work5.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/demo1/work5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/demo1/work6.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/demo1/work6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/listDemo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/listDemo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/listDemo/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/listDemo/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/src/listDemo/demotow.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day13/src/listDemo/demotow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/day16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/day16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo/CollectionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo/MathUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo2/AgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo2/AgeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo2/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo2/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo2/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo2/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo2/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo2/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo2/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo3/FileDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo3/FileDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo3/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo3/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo3/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo3/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/src/demo3/fileutil.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/src/demo3/fileutil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/text/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/训练/day16/text/b.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gitee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gitee.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/src/t1/testPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui/src/t1/testPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/likou.iml" beforeDir="false" afterPath="$PROJECT_DIR$/训练/likou/likou.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/Last_word_length.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/likou/src/Last_word_length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/likou/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/UniformRandomNumber_False.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/likou/src/UniformRandomNumber_False.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/likou/src/ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/WordSearchII.java" beforeDir="false" afterPath="$PROJECT_DIR$/训练/likou/src/WordSearchII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/均匀随机数.doc" beforeDir="false" afterPath="$PROJECT_DIR$/训练/likou/src/均匀随机数.doc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +293,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://F:/Program Files/Java/jdk-17.0.1/lib/src.zip!/java.base/java/io/FilenameFilter.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,7 +330,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.9" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/新手/testScanner/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -84,70 +343,41 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.29411766" />
   </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Demo3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\开发材料\java\java\新手\testScanner\src" />
       <recent name="D:\eclipse\java_ee\gitee\Day14\src\ListDemo1" />
       <recent name="D:\eclipse\java_ee\gitee\likou\21天算法题\day1" />
       <recent name="D:\eclipse\java_ee\gitee\Day14\src\home" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\开发材料\java\java\新手" />
+      <recent name="D:\开发材料\java\java\训练" />
       <recent name="D:\eclipse\java_ee\gitee\Day18\src\Demo2" />
       <recent name="D:\eclipse\java_ee\gitee\likou\21天算法题" />
       <recent name="D:\eclipse\java_ee\gitee\likou" />
-      <recent name="D:\eclipse\java_ee\gitee\Day14\src" />
-      <recent name="D:\eclipse\java_ee\gitee\Day14" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Day5" />
       <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.erweishuzu">
-    <configuration name="PropertiesDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo2.PropertiesDemo2" />
-      <module name="Day18" />
+  <component name="RunManager" selected="应用程序.ScannerDemo">
+    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ScannerDemo" />
+      <module name="testScanner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo2.*" />
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo4.Test" />
-      <module name="Day18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Demo4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Test2" />
-      <module name="Day18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="erweishuzu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="erweishuzu" />
-      <module name="gitee" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,9 +389,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="t2Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.t2Scanner" />
+      <module name="testScanner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.tScanner" />
+      <module name="testScanner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1.testPanel" />
+      <module name="gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.erweishuzu" />
+        <item itemvalue="应用程序.ScannerDemo" />
+        <item itemvalue="应用程序.t2Scanner" />
+        <item itemvalue="应用程序.tScanner" />
+        <item itemvalue="应用程序.testPanel" />
+        <item itemvalue="应用程序.t1" />
       </list>
     </recent_temporary>
   </component>
@@ -269,8 +542,20 @@
       <workItem from="1642827988177" duration="169000" />
       <workItem from="1643134386862" duration="460000" />
       <workItem from="1643169477350" duration="1127000" />
-      <workItem from="1643988595604" duration="1484000" />
+      <workItem from="1643988595604" duration="3879000" />
+      <workItem from="1644046491597" duration="6738000" />
+      <workItem from="1644129263326" duration="1848000" />
+      <workItem from="1644758721869" duration="851000" />
+      <workItem from="1644759700708" duration="956000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1644040217277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644040217277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +574,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

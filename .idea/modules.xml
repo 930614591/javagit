@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/14天算法训练/21天算法训练.iml" filepath="$PROJECT_DIR$/14天算法训练/21天算法训练.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day15/Day15.iml" filepath="$PROJECT_DIR$/Day15/Day15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day17/Day17.iml" filepath="$PROJECT_DIR$/Day17/Day17.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day18/Day18.iml" filepath="$PROJECT_DIR$/Day18/Day18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day16/day16.iml" filepath="$PROJECT_DIR$/day16/day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/训练/14天算法训练/21天算法训练.iml" filepath="$PROJECT_DIR$/训练/14天算法训练/21天算法训练.iml" />
+      <module fileurl="file://$PROJECT_DIR$/训练/Day15/Day15.iml" filepath="$PROJECT_DIR$/训练/Day15/Day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/训练/Day17/Day17.iml" filepath="$PROJECT_DIR$/训练/Day17/Day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/训练/Day18/Day18.iml" filepath="$PROJECT_DIR$/训练/Day18/Day18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/训练/day16/day16.iml" filepath="$PROJECT_DIR$/训练/day16/day16.iml" />
       <module fileurl="file://$PROJECT_DIR$/gitee.iml" filepath="$PROJECT_DIR$/gitee.iml" />
       <module fileurl="file://$PROJECT_DIR$/gui/gui.iml" filepath="$PROJECT_DIR$/gui/gui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/likou/likou.iml" filepath="$PROJECT_DIR$/likou/likou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/训练/likou/likou.iml" filepath="$PROJECT_DIR$/训练/likou/likou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/新手/testScanner/testScanner.iml" filepath="$PROJECT_DIR$/新手/testScanner/testScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/数据结构/数据结构.iml" filepath="$PROJECT_DIR$/数据结构/数据结构.iml" />
     </modules>
   </component>
