@@ -15,7 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/训练/Day14/src" isTestSource="false" packagePrefix="array" />
       <sourceFolder url="file://$MODULE_DIR$/训练/day13/src" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
