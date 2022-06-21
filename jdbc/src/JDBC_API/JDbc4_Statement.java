@@ -1,4 +1,4 @@
-package test1;
+package JDBC_API;
 
 import org.testng.annotations.Test;
 

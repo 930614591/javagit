@@ -1,8 +1,7 @@
-package test1;
+package JDBC_API;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.SQLException;
 import java.sql.Statement;
 //Connection详解事务管理
 public class JDbcCT3 {
