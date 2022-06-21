@@ -2,9 +2,7 @@ package test1;
 
 import org.testng.annotations.Test;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.Statement;
+import java.sql.*;
 
 //Statement
 public class JDbc4_Statement {
