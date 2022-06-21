@@ -10,18 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/javawebtest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/src/main/java/com/example/javawebtest/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebtest/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javawebtest/src/main/java/com/example/javawebtest/phptheServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/test1/JDbcCT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javawebtest/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/javawebtest/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -480,7 +473,7 @@
       <workItem from="1654875493082" duration="1784000" />
       <workItem from="1655743618293" duration="2035000" />
       <workItem from="1655766525637" duration="3026000" />
-      <workItem from="1655770632767" duration="2888000" />
+      <workItem from="1655770632767" duration="5524000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -524,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655772370082</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changes">
+      <created>1655773787988</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655773787988</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
