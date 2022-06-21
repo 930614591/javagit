@@ -10,13 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="//Statement">
-      <change afterPath="$PROJECT_DIR$/jdbc/src/JDBC_API/JDbcCT5_ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jdbc/jdbctest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jdbc/src/test1/JDbcCT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/src/test1/JDbc4_Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/JDBC_API/JDbc4_Statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/src/test1/JDbcCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/JDBC_API/JDbcCT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/src/test1/JDbcCT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/JDBC_API/JDbcCT2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/src/test1/JDbcCT3.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/JDBC_API/JDbcCT3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/JDBC_API/JDbcCT5_ResultSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/JDBC_API/JDbcCT5_ResultSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +355,7 @@
       <workItem from="1654875493082" duration="1784000" />
       <workItem from="1655743618293" duration="2035000" />
       <workItem from="1655766525637" duration="3026000" />
-      <workItem from="1655770632767" duration="16561000" />
+      <workItem from="1655770632767" duration="19439000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -460,7 +455,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655806426191</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="//Statement">
+      <created>1655806923082</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655806923082</updated>
+    </task>
+    <task id="LOCAL-00016" summary="//Statement">
+      <created>1655807039754</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655807039754</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
