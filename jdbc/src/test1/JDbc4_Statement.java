@@ -45,12 +45,16 @@ public class JDbc4_Statement {
         Connection conn= DriverManager.getConnection(url,username,password);
 
         //sql
-        String sql="update sjj set id=10 where id=5";
+        String sql="create database db2";
         //4获取执行sql的对象
         Statement stmt=conn.createStatement();
         //6.执行sql
         int count=stmt.executeUpdate(sql);
-        System.out.println(count);
+        if(count>0){
+            System.out.println("执行成功");
+        }else {
+            System.out.println("执行失败");
+        }
         stmt.close();
         conn.close();
     }
