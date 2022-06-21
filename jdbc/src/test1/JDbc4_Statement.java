@@ -48,13 +48,20 @@ public class JDbc4_Statement {
         String sql="create database db2";
         //4获取执行sql的对象
         Statement stmt=conn.createStatement();
-        //6.执行sql
-        int count=stmt.executeUpdate(sql);
-        if(count>0){
+        //6.执行sql 、、DDL语句返回值不再是数字。所以下面的方法注释掉
+        try {
+            stmt.executeUpdate(sql);
             System.out.println("执行成功");
-        }else {
+        } catch (Exception e) {
             System.out.println("执行失败");
+            throw new RuntimeException(e);
+
         }
+//        if(count>0){
+//              System.out.println("执行成功");
+//        }else {
+//               System.out.println("执行失败");
+//        }
         stmt.close();
         conn.close();
     }
