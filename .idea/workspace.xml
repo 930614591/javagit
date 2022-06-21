@@ -9,11 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/jdbc/src/test1/JDbcCT3.java" afterDir="false" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="//Connection详解事务管理">
+      <change afterPath="$PROJECT_DIR$/jdbc/src/test1/JDbc4_Statement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/jdbc/jdbctest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/jdbc/src/test1/JDbcCT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javawebtest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javawebtest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/test1/JDbcCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/test1/JDbcCT.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +77,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -124,8 +131,8 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.JDbcCT3">
-    <configuration name="JDbcCT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.JDbc4_Statement.testDML">
+    <configuration name="test1.JDbcCT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test1.JDbcCT" />
       <module name="jdbc" />
       <extension name="coverage">
@@ -138,7 +145,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDbcCT3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="test1.JDbcCT3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test1.JDbcCT3" />
       <module name="jdbc" />
       <extension name="coverage">
@@ -147,6 +154,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDbc4_Statement.testDML" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="test1.JDbc4_Statement" />
+      <option name="METHOD_NAME" value="testDML" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -169,45 +194,6 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="demo:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="index.jsp (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.81" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
-      <deployment>
-        <artifact name="javawebtest:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/javawebtest_war" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="069916a2-76f7-4fbe-918d-0a99dc80e3a6" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="javawebtest:war" />
         </option>
       </method>
     </configuration>
@@ -290,20 +276,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.JDbc4_Statement.testDML" />
       <item itemvalue="Tomcat 服务器.Tomcat 8.5.81" />
-      <item itemvalue="Tomcat 服务器.index.jsp (1)" />
       <item itemvalue="Tomcat 服务器.index.jsp (2)" />
       <item itemvalue="Tomcat 服务器.index.jsp (3)" />
-      <item itemvalue="应用程序.JDbcCT" />
-      <item itemvalue="应用程序.JDbcCT3" />
+      <item itemvalue="应用程序.test1.JDbcCT" />
+      <item itemvalue="应用程序.test1.JDbcCT3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.JDbcCT3" />
-        <item itemvalue="应用程序.JDbcCT" />
+        <item itemvalue="TestNG.JDbc4_Statement.testDML" />
+        <item itemvalue="应用程序.test1.JDbcCT3" />
+        <item itemvalue="应用程序.test1.JDbcCT" />
         <item itemvalue="Tomcat 服务器.index.jsp (3)" />
         <item itemvalue="Tomcat 服务器.index.jsp (2)" />
-        <item itemvalue="Tomcat 服务器.index.jsp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +407,7 @@
       <workItem from="1654875493082" duration="1784000" />
       <workItem from="1655743618293" duration="2035000" />
       <workItem from="1655766525637" duration="3026000" />
-      <workItem from="1655770632767" duration="7645000" />
+      <workItem from="1655770632767" duration="11152000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -486,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655785074551</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="//Connection详解事务管理">
+      <created>1655785749223</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655785749223</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +499,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <MESSAGE value="//Connection详解事务管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="//Connection详解事务管理" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
