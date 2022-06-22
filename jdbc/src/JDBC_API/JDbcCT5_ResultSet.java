@@ -86,6 +86,7 @@ public class JDbcCT5_ResultSet {
             list.add(sjj);
 
         }
+        System.out.println(list);
         resultSet.close();
         stmt.close();
         conn.close();
