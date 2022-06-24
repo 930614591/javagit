@@ -11,4 +11,10 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jdbc" options="--add-modules java.base,java.sql" />
+      <module name="数据结构" options="--add-modules java.base" />
+    </option>
+  </component>
 </project>

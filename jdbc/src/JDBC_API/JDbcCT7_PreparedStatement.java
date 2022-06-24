@@ -11,7 +11,8 @@ public class JDbcCT7_PreparedStatement {
     public void  login_Inject2() throws Exception {
         //1、注册驱动
         Class.forName("com.mysql.cj.jdbc.Driver");
-        String url="jdbc:mysql://192.168.5.222:3306/test";
+        //useServerPrepStmts=true开启预编译功能
+        String url="jdbc:mysql://192.168.5.222:3306/test?useServerPrepStmts=true";
         //这里的192.168.5.222:3306指的是我mysql服务器的ip如果是本机的mysql的话用下面这段
         //String url="jdbc:mysql://127.0.0.1:3306/test";
         //test指的是所需要用的数据库系统中的具体某一个数据库
