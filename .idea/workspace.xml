@@ -9,10 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="数据库连接池Drui">
-      <change afterPath="$PROJECT_DIR$/jdbc/src/example/BrandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/src/Driud/DruidDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/Driud/DruidDemo.java" afterDir="false" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="数据库连接池Drui-完全查询测试">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -432,7 +430,7 @@
       <workItem from="1656152391629" duration="100000" />
       <workItem from="1656152540263" duration="80000" />
       <workItem from="1656152658910" duration="289000" />
-      <workItem from="1656152985034" duration="1869000" />
+      <workItem from="1656152985034" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -581,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656149100418</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="数据库连接池Drui-完全查询测试">
+      <created>1656154903867</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656154903867</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +609,8 @@
     <MESSAGE value="//Connection详解事务管理" />
     <MESSAGE value="//Statement" />
     <MESSAGE value="数据库连接池Drui" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据库连接池Drui" />
+    <MESSAGE value="数据库连接池Drui-完全查询测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据库连接池Drui-完全查询测试" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
