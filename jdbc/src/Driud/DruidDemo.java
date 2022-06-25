@@ -20,7 +20,7 @@ public class DruidDemo  {
 
         //3、加载配置文件
         Properties prop=new Properties();
-        prop.load(new FileInputStream("jdbc/src/druid.properties"));
+        prop.load(new FileInputStream("src/druid.properties"));
         //4、获取连接池对象
         DataSource dataSource= DruidDataSourceFactory.createDataSource(prop);
         //5.获取对象的数据库链接
