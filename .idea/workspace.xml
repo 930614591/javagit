@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="数据库连接池Drui-完全查询测试">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/example/BrandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/example/BrandTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +127,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BrandTest.TestSelectAll">
+  <component name="RunManager" selected="TestNG.BrandTest.TestSelectupdate (1)">
     <configuration name="DruidDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driud.DruidDemo" />
       <module name="jdbc" />
@@ -140,18 +141,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javawebtest中的所有" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javawebtest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+    <configuration name="BrandTest.TestSelectADD" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.BrandTest" />
+      <option name="METHOD_NAME" value="TestSelectADD" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/javawebtest_war_exploded/index.jsp">
-      <method v="2" />
     </configuration>
     <configuration name="BrandTest.TestSelectAll" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="jdbc" />
@@ -164,6 +170,42 @@
       <option name="PACKAGE_NAME" value="example" />
       <option name="MAIN_CLASS_NAME" value="example.BrandTest" />
       <option name="METHOD_NAME" value="TestSelectAll" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrandTest.TestSelectupdate (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.BrandTest" />
+      <option name="METHOD_NAME" value="TestSelectupdate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrandTest.TestSelectupdate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.BrandTest" />
+      <option name="METHOD_NAME" value="TestSelectupdate" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -250,60 +292,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.81" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
-      <deployment>
-        <artifact name="javawebtest:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/javawebtest_war_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="70696b07-639d-4e64-9aa6-0dac10bd9077" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="javawebtest:war exploded" />
-        </option>
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JavaScript 调试.index.jsp" />
-      <item itemvalue="JUnit.javawebtest中的所有" />
+      <item itemvalue="TestNG.BrandTest.TestSelectADD" />
       <item itemvalue="TestNG.BrandTest.TestSelectAll" />
+      <item itemvalue="TestNG.BrandTest.TestSelectupdate" />
+      <item itemvalue="TestNG.BrandTest.TestSelectupdate (1)" />
       <item itemvalue="Tomcat 服务器.Tomcat 8.5.81" />
-      <item itemvalue="Tomcat 服务器.index.jsp" />
       <item itemvalue="应用程序.DruidDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BrandTest.TestSelectupdate (1)" />
+        <item itemvalue="TestNG.BrandTest.TestSelectupdate" />
+        <item itemvalue="TestNG.BrandTest.TestSelectADD" />
         <item itemvalue="TestNG.BrandTest.TestSelectAll" />
         <item itemvalue="应用程序.DruidDemo" />
-        <item itemvalue="JavaScript 调试.index.jsp" />
-        <item itemvalue="Tomcat 服务器.index.jsp" />
-        <item itemvalue="JUnit.javawebtest中的所有" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +433,7 @@
       <workItem from="1656152391629" duration="100000" />
       <workItem from="1656152540263" duration="80000" />
       <workItem from="1656152658910" duration="289000" />
-      <workItem from="1656152985034" duration="2171000" />
+      <workItem from="1656152985034" duration="7303000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -586,7 +589,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656154903867</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="数据库连接池Drui-完全查询测试">
+      <created>1656155196825</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656155196825</updated>
+    </task>
+    <task id="LOCAL-00024" summary="数据库连接池Drui-完全查询测试">
+      <created>1656155815027</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656155815027</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
