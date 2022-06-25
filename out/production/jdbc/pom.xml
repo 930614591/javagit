@@ -6,7 +6,9 @@
         <artifactId>demo</artifactId>
         <groupId>com.example</groupId>
         <version>1.0-SNAPSHOT</version>
+
     </parent>
+
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>jdbc</artifactId>
@@ -14,6 +16,11 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>${druid-version}</version>
+        </dependency>
     </properties>
 
 </project>
