@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="数据库连接池Drui">
-      <change afterPath="$PROJECT_DIR$/jdbc/druid-1.2.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/Driud/DruidDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/pojo/Brand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="数据库连接池Drui" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +78,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/93061/Desktop/go/java/jdbc/druid-1.2.9.jar",
+    "last_opened_file_path": "H:/开发资料/go/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -410,6 +402,7 @@
       <workItem from="1655770632767" duration="26903000" />
       <workItem from="1656033518458" duration="5489000" />
       <workItem from="1656074701491" duration="5055000" />
+      <workItem from="1656148671652" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -544,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655865170530</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="数据库连接池Drui">
+      <created>1656148895012</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656148895012</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
