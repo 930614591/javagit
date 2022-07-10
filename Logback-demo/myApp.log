@@ -1,0 +1,12 @@
+2022-06-29 01:46:53,382 DEBUG [main] com.aa [applog6.java:25] no1
+2022-06-29 01:46:53,397 INFO [main] com.aa [applog6.java:26] no2
+2022-06-29 01:46:53,397 WARN [main] com.aa [applog6.java:27] no3
+2022-06-29 01:46:53,397 ERROR [main] com.aa [applog6.java:28] no4
+2022-06-29 01:47:02,085 DEBUG [main] com.aa [applog6.java:25] no1
+2022-06-29 01:47:02,085 INFO [main] com.aa [applog6.java:26] no2
+2022-06-29 01:47:02,085 WARN [main] com.aa [applog6.java:27] no3
+2022-06-29 01:47:02,085 ERROR [main] com.aa [applog6.java:28] no4
+2022-06-29 01:47:09,476 DEBUG [main] com.aa [applog6.java:25] no1
+2022-06-29 01:47:09,491 INFO [main] com.aa [applog6.java:26] no2
+2022-06-29 01:47:09,491 WARN [main] com.aa [applog6.java:27] no3
+2022-06-29 01:47:09,491 ERROR [main] com.aa [applog6.java:28] no4
