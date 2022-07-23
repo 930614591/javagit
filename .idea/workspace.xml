@@ -441,6 +441,7 @@
       <workItem from="1656173728801" duration="640000" />
       <workItem from="1657420262075" duration="81000" />
       <workItem from="1657633905830" duration="55000" />
+      <workItem from="1657939408075" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -631,7 +632,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657633935126</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="mapper代理开发">
+      <created>1657939441868</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1657939441868</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
