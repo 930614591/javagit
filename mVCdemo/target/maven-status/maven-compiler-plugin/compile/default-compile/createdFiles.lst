@@ -1,0 +1,8 @@
+com\mapper\usermapper.class
+com\servive\userservice.class
+com\pojo\user.class
+com\web\selectAllSrtvlet.class
+com\web\selectidservlet.class
+com\web\updateuserservlet.class
+com\web\addservlet.class
+com\util\SqlSessionfactoryUtils.class

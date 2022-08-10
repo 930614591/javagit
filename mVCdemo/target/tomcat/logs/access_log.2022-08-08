@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:00:15:05 +0800] "GET /mVCdemo/add.jsp HTTP/1.1" 200 410 http-bio-8080-exec-1 43
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:00:15:05 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:00:15:10 +0800] "POST /mVCdemo/addservlet HTTP/1.1" 200 1204 http-bio-8080-exec-4 944
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:08:39:11 +0800] "POST /mVCdemo/addservlet HTTP/1.1" 200 - http-bio-8080-exec-6 126
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:08:39:20 +0800] "POST /mVCdemo/addservlet HTTP/1.1" 200 1411 http-bio-8080-exec-8 499
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:08:39:25 +0800] "POST /mVCdemo/addservlet HTTP/1.1" 200 - http-bio-8080-exec-9 177
