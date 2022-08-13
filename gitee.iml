@@ -30,6 +30,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/maven-java-web-demo/target/tomcat/conf" relative="/WEB-INF" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
   </component>
