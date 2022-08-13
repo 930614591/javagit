@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:18:32:14 +0800] "GET /Filterdemo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:18:32:14 +0800] "GET /Filterdemo/ HTTP/1.1" 200 - http-bio-8080-exec-3 7
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:18:32:14 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:18:34:37 +0800] "GET /Filterdemo/ HTTP/1.1" 200 57 http-bio-8080-exec-1 706
+0:0:0:0:0:0:0:1 - - [13/Aug/2022:18:41:32 +0800] "GET /Filterdemo/ HTTP/1.1" 200 59 http-bio-8080-exec-1 438
