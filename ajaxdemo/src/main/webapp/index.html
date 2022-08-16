@@ -1,0 +1,23 @@
+<html>
+<body>
+<h2>Hello World!</h2>
+<script>
+    //创建核心对象
+    var xhttp;
+    if (window.XMLHttpRequest){
+        xhttp=new XMLHttpRequest();
+    }else {
+        xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    //发送请求
+    xhttp.open("GET","/ajaxdemo/ajax1.html");
+    xhttp.send();
+    //获取相应
+    xhttp.onreadystatechange=function (){
+        if (this.readyState==4 && this.status==200){
+           alert(this.responseText);
+        }
+    };
+</script>
+</body>
+</html>

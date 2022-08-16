@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="js/axios.min.js"></script>
+<script>
+  // axios({
+  //   method:"post",
+  //     url:"http://localhost:8080/ajaxdemo/axios",
+  //     data :"username=zhangsan"
+  // }).then(function (response){
+  //     alert(response.data);
+  // })
+  
+  axios.post("/ajaxdemo/axios","username=zhangsan").then(function (response) {
+      //回调函数
+      alert(response.data);
+  })
+</script>
+</body>
+</html>
