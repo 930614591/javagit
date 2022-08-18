@@ -1,0 +1,22 @@
+<html>
+<body>
+<h2>Hello World!</h2>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    //设定页面加载完毕事件
+    window.onload=function() {
+        //发送请求
+        axios.get("/jsondemo/selectAll").then(function (response) {
+            //回调函数
+            // console.info(response.data);
+            for (var user in response.data){
+                console.info(
+                    response.data[user].id+":"+response.data[user].username+":"+response.data[user].password
+                );
+            };
+        })
+    }
+
+</script>
+</body>
+</html>
