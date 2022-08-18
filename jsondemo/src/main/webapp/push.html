@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" id="push" value="模拟提交">
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+  //模拟提交事件
+  document.getElementById("push").onclick=function() {
+    //发送请求
+    var user={username:"zhangsan"}
+    axios.post("/jsondemo/add",user).then(function (response) {
+        console.info(
+            response.data
+        )
+    })
+  }
+
+</script>
+</body>
+</html>
