@@ -1,0 +1,28 @@
+<html>
+<meta charset="utf-8">
+<body>
+<h2></h2>
+<div id="app">
+    <a href="url">Hello World!</a>
+    <a v-bind:href="url">Hello World!</a>
+    <input v-model="url">
+</div>
+<script src="js/vue.js"></script>
+<script>
+    //创建vue的核心对象
+    new Vue(   {
+        //id选择器
+        el:"#app",
+        data(){
+            return {
+                username:"",
+                url:"https://baidu.com"
+            }
+        }
+        // data: function (){
+        //
+        // }
+    })
+</script>
+</body>
+</html>

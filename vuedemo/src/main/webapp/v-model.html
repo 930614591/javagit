@@ -1,0 +1,27 @@
+<html>
+<meta charset="utf-8">
+<body>
+<h2>Hello World!</h2>
+<div id="app">
+    <input v-model="username">
+<!--    插值表达式-->
+    {{username}}
+</div>
+<script src="js/vue.js"></script>
+<script>
+    //创建vue的核心对象
+    new Vue(   {
+        //id选择器
+        el:"#app",
+        data(){
+            return {
+                username:""
+            }
+        }
+        // data: function (){
+        //
+        // }
+    })
+</script>
+</body>
+</html>

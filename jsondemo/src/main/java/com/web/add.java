@@ -1,7 +1,6 @@
 package com.web;
 
 import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
 import com.pojo.User;
 
 import javax.servlet.ServletException;
@@ -26,9 +25,13 @@ public class add extends HttpServlet {
         String s = reader.readLine();
 
         //将json转换成对象
-        User user = JSON.parseObject(s, User.class);
-        System.out.println(user.toString());
-        resp.getWriter().write(s);
+        User userobject = JSON.parseObject(s, User.class);
+
+        //将查询到的对象转换成json 序列化
+        String usersJson = JSON.toJSONString(userobject);
+        System.out.println(userobject);
+        System.out.println(s);
+        resp.getWriter().write(usersJson);
 
     }
 }

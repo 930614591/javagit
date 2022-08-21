@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="app">
+    <form method="post">
+        id:<input id="id" v-model="user.id" type="text"><hr>
+        username:<input id="username" v-model="user.username" type="text"><hr>
+        password:<input id="password" v-model="user.password" type="text"><hr>
+        <input type="button" id="push" @click="push" value="模拟提交">
+    </form>
+
+</div>
+
+<script src="js/vue.js"></script>
+<script src="js/axios.min.js"></script>
+<script>
+    new Vue({
+        el:"#app",
+        //数据
+        data(){
+          return{
+              user:{}
+          }
+        },
+        //函数
+        methods:{
+            push(){
+                var _this=this;
+                axios.post("/jsondemo/add",_this.user).then(function (response) {
+                          console.info(
+                              response.data
+                          )
+                      })
+            }
+        }
+    })
+  //模拟提交事件
+  // document.getElementById("push").onclick=function() {
+  //   //发送请求
+  //   var user={id:1,username:"zhangsan"}
+  //   axios.post("/jsondemo/add",user).then(function (response) {
+  //       console.info(
+  //           response.data
+  //       )
+  //   })
+  // }
+
+</script>
+</body>
+</html>
