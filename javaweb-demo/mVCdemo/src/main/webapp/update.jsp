@@ -29,7 +29,7 @@ ${user}
     </tr>
 
 </table>
-<form action="/mVCdemo/updateuser" method="post">
+<form action="/javaweb-demo/mVCdemo/updateuser" method="post">
     id:<input type="text" value="${user.id}" name="id"><br/>
     username:<input type="text" value="${user.username}" name="username"><br/>
     password:<input type="password" value="${user.password}" name="password"><br/>

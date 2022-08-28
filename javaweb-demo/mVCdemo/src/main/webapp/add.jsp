@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<form style="width: 400px" action="/mVCdemo/addservlet" method="post">
+<form style="width: 400px" action="/javaweb-demo/mVCdemo/addservlet" method="post">
     <fieldset>
         <legend>注册</legend><br>
         username=<input type="text" name="username"><br><br>

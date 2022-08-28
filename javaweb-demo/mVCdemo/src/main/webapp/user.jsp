@@ -14,7 +14,7 @@
 </head>
 <body>
 <form>
-    <a href="/mVCdemo/add.jsp" ><input type="button" value="添加"></a>
+    <a href="/javaweb-demo/mVCdemo/add.jsp" ><input type="button" value="添加"></a>
 </form>
 ${users}
 <table border="1" cellpadding="0" width="800">
@@ -34,13 +34,13 @@ ${users}
 
             <td>
 <%--                用次数作id和内容--%>
-                <form action="/mVCdemo/selectid" method="post" >
+                <form action="/javaweb-demo/mVCdemo/selectid" method="post" >
                     <input type="hidden" value="${user.id}" name="id">
                     <input type="submit" value="修改" id="update">
                 </form>
             </td>
             <td>
-                <form action="/mVCdemo/delet" method="post" >
+                <form action="/javaweb-demo/mVCdemo/delet" method="post" >
                     <input type="hidden" value="${user.id}" name="id">
                     <input type="submit" value="删除" id="delet">
                 </form>
