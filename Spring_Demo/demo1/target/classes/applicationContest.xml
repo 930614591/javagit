@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    .导入serping坐标 spring-context 5.2.10 R-->
+<!--    2，配置bean-->
+<!--    bean标签配置bean-->
+<!--    id表示给bean起名字-->
+<!--    class属性表示给bean起名字-->
+    <bean class="com.demo1.Dao.BookDaoImpl" id="bookDao"></bean>
+    <bean class="com.demo1.service.BookServiceImpl" id="bookService"></bean>
+</beans>
