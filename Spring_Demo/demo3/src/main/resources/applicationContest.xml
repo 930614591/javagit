@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+            http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+              http://www.springframework.org/schema/context/spring-context.xsd
+">
+<!--    .导入serping坐标 spring-context 5.2.10 R-->
+<!--    2，配置bean-->
+<!--    bean标签配置bean-->
+<!--    id表示给bean起名字-->
+<!--    class属性表示给bean起名字-->
+    <bean class="com.demo2.Dao.BookDaoImpl" id="bookDaobean"></bean>
+    <bean class="com.demo2.service.BookServiceImpl" id="bookServicebean" autowire="byType">
+<!--        配置service与dao的关系-->
+<!--        property表示配置当前bean的属性 name表示bookService内的属性对象，ref表示对象的来源，来自其他的bean-->
+<!--        <property name="bookDao" ref="bookDaobean"/>-->
+    </bean>
+
+
+    <bean class="com.demo2.demo3.text2Impl" id="text2bean"/>
+<!--    导入properties数据文件-->
+    <context:property-placeholder location="classpath:*properties"/>
+    <bean class="com.demo2.demo3.textImpl" id="textbean" autowire="byType">
+<!--        手动为属性注入-->
+        <property name="id" value="${text.id}"/>
+        <property name="username"   value="${text.username}"/>
+    </bean>
+
+</beans>
