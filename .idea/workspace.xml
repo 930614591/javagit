@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo 2.5半注解开发demo" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo 注解开发demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -458,6 +460,8 @@
       <workItem from="1661926841891" duration="86000" />
       <workItem from="1662023366495" duration="73000" />
       <workItem from="1662027613886" duration="60000" />
+      <workItem from="1662030878297" duration="42000" />
+      <workItem from="1662045274685" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -746,7 +750,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662027660230</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Springdemo 注解开发demo">
+      <created>1662030903812</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1662030903812</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -783,7 +794,8 @@
     <MESSAGE value="Springdemo IOC/DI" />
     <MESSAGE value="Springdemo 自动装配和资源文件" />
     <MESSAGE value="Springdemo 2.5半注解开发demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springdemo 2.5半注解开发demo" />
+    <MESSAGE value="Springdemo 注解开发demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springdemo 注解开发demo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
