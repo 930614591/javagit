@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo IOC/DI">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo 自动装配和资源文件" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -458,6 +456,7 @@
       <workItem from="1661846677256" duration="164000" />
       <workItem from="1661856673676" duration="90000" />
       <workItem from="1661926841891" duration="86000" />
+      <workItem from="1662023366495" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -732,7 +731,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661856751793</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Springdemo 自动装配和资源文件">
+      <created>1662023427516</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1662023427516</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -767,7 +773,8 @@
     <MESSAGE value="javaweb" />
     <MESSAGE value="Springdemo IOC" />
     <MESSAGE value="Springdemo IOC/DI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springdemo IOC/DI" />
+    <MESSAGE value="Springdemo 自动装配和资源文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springdemo 自动装配和资源文件" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
