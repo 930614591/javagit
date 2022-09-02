@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mapper.userMapper">
+<!--    此处填接口-->
+    <select id="selectall" resultType="pojo.User">
+   <!-- 此处田接口方法和返回类型，下面填具体语句-->
+        select * from user;
+    </select>
+    <select id="selectid" resultType="pojo.User">
+        <!-- 此处田接口方法和返回类型，下面填具体语句-->
+        select * from user where user_id= #{user_id};
+    </select>
+</mapper>

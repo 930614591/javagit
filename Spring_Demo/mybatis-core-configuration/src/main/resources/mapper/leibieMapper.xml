@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mapper.leibieMapper">
+
+
+    <resultMap id="leibieMapper" type="pojo.leibie">
+
+        <result column="id" property="id"></result>
+        <!--        映射，将实体类中的属性与数据表中的属性做映射，适用于命名不一致的情况下-->
+    </resultMap>
+
+    <!--    此处填接口-->
+    <select id="selectall" resultMap="leibieMapper">
+        <!-- 此处田接口方法和返回类型，下面填具体语句-->
+        select * from sjj;
+    </select>
+
+
+
+
+
+    <sql id="select_id">*</sql>
+    <!--    sql片段-->
+    <select id="selectid" resultType="pojo.leibie">
+        <!-- 此处田接口方法和返回类型，下面填具体语句-->
+        select
+        <include refid="select_id"></include>
+        <!--导入sql片段-->
+
+        from 类别 where id= #{id} and 名称 = #{名称};
+    </select>
+
+    <select id="selectAllByIdLeibie" resultType="pojo.leibie">
+        <!-- 此处田接口方法和返回类型，下面填具体语句-->
+        select
+        <include refid="select_id"></include>
+        <!--导入sql片段-->
+
+        from 类别
+            <where >
+                    <choose>
+                        <when test="id!=null">  id= #{id} </when>
+                        <when test="名称!=null and 名称!=''">   名称 = #{名称};  </when>
+                        <otherwise>
+                            1=1;
+                        </otherwise>
+                    </choose>
+
+            </where>
+
+    </select>
+
+    <select id="selectAllByIdMap" resultType="pojo.leibie">
+        <!-- 此处田接口方法和返回类型，下面填具体语句-->
+        select
+        <include refid="select_id"></include>
+        <!--导入sql片段-->
+
+        from 类别
+            <where>
+                    <if test="id!=null">
+                        id= #{id}
+                    </if>
+                    <if test="名称!=null and 名称!=''">
+                        名称 = #{名称};
+                    </if>
+            </where>
+
+    </select>
+
+
+
+    <insert id="add" useGeneratedKeys="true" keyProperty="id">
+    <!--useGeneratedKeys="true"开启获取返回值 keyProperty="id"设定返回值列名-->
+        insert into 类别 (名称)
+        values (#{名称});
+    </insert>
+
+
+
+
+
+</mapper>

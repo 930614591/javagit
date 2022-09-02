@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo 注解开发自动注入" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo 第三方bean管理与依赖注入" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -461,6 +461,7 @@
       <workItem from="1662030878297" duration="42000" />
       <workItem from="1662045274685" duration="13000" />
       <workItem from="1662046660672" duration="49000" />
+      <workItem from="1662049270518" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -763,7 +764,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662046693313</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Springdemo 第三方bean管理与依赖注入">
+      <created>1662049385710</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1662049385710</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -802,7 +810,8 @@
     <MESSAGE value="Springdemo 2.5半注解开发demo" />
     <MESSAGE value="Springdemo 注解开发demo" />
     <MESSAGE value="Springdemo 注解开发自动注入" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springdemo 注解开发自动注入" />
+    <MESSAGE value="Springdemo 第三方bean管理与依赖注入" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springdemo 第三方bean管理与依赖注入" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
