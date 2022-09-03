@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo Mybatis独立开发" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo Spring整合Mybatis框架">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -463,6 +465,8 @@
       <workItem from="1662046660672" duration="49000" />
       <workItem from="1662049270518" duration="150000" />
       <workItem from="1662094657458" duration="72000" />
+      <workItem from="1662126663428" duration="838000" />
+      <workItem from="1662215421374" duration="645000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -779,7 +783,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662094717062</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Springdemo Spring整合Mybatis框架">
+      <created>1662126705638</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1662126705639</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -790,7 +801,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -820,7 +848,8 @@
     <MESSAGE value="Springdemo 注解开发自动注入" />
     <MESSAGE value="Springdemo 第三方bean管理与依赖注入" />
     <MESSAGE value="Springdemo Mybatis独立开发" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springdemo Mybatis独立开发" />
+    <MESSAGE value="Springdemo Spring整合Mybatis框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springdemo Spring整合Mybatis框架" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
