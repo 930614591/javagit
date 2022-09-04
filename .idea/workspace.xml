@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo AOP基础案例">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo AOP五种通知" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -468,6 +466,7 @@
       <workItem from="1662126663428" duration="838000" />
       <workItem from="1662215421374" duration="645000" />
       <workItem from="1662222381272" duration="1237000" />
+      <workItem from="1662294627430" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -798,7 +797,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662222423318</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Springdemo AOP五种通知">
+      <created>1662294677206</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1662294677206</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -858,7 +864,8 @@
     <MESSAGE value="Springdemo Mybatis独立开发" />
     <MESSAGE value="Springdemo Spring整合Mybatis框架" />
     <MESSAGE value="Springdemo AOP基础案例" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springdemo AOP基础案例" />
+    <MESSAGE value="Springdemo AOP五种通知" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springdemo AOP五种通知" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
