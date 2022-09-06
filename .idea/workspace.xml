@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo AOP五种通知" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo AOP万次接口调用效率" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -467,6 +467,7 @@
       <workItem from="1662215421374" duration="645000" />
       <workItem from="1662222381272" duration="1237000" />
       <workItem from="1662294627430" duration="63000" />
+      <workItem from="1662300991724" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1644040217277</created>
@@ -804,7 +805,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662294677206</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Springdemo AOP万次接口调用效率">
+      <created>1662301048428</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1662301048428</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -840,7 +848,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changes" />
     <MESSAGE value="//Connection详解事务管理" />
     <MESSAGE value="//Statement" />
     <MESSAGE value="数据库连接池Drui" />
@@ -865,7 +872,8 @@
     <MESSAGE value="Springdemo Spring整合Mybatis框架" />
     <MESSAGE value="Springdemo AOP基础案例" />
     <MESSAGE value="Springdemo AOP五种通知" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springdemo AOP五种通知" />
+    <MESSAGE value="Springdemo AOP万次接口调用效率" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springdemo AOP万次接口调用效率" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
