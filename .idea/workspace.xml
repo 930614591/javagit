@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo 事务demo" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="Springdemo 事务demo-事务传播" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -469,13 +469,7 @@
       <workItem from="1662294627430" duration="63000" />
       <workItem from="1662300991724" duration="97000" />
       <workItem from="1662468671724" duration="114000" />
-    </task>
-    <task id="LOCAL-00002" summary="Changes">
-      <created>1654876436347</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1654876436347</updated>
+      <workItem from="1662478765432" duration="82000" />
     </task>
     <task id="LOCAL-00003" summary="Changes">
       <created>1655766106308</created>
@@ -813,7 +807,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662468727876</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Springdemo 事务demo-事务传播">
+      <created>1662478811117</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1662478811117</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -849,7 +850,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="//Statement" />
     <MESSAGE value="数据库连接池Drui" />
     <MESSAGE value="数据库连接池Drui-完全查询测试" />
     <MESSAGE value="mapper代理开发" />
@@ -874,7 +874,8 @@
     <MESSAGE value="Springdemo AOP五种通知" />
     <MESSAGE value="Springdemo AOP万次接口调用效率" />
     <MESSAGE value="Springdemo 事务demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Springdemo 事务demo" />
+    <MESSAGE value="Springdemo 事务demo-事务传播" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springdemo 事务demo-事务传播" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
