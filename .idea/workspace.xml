@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC 请求与响应" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC 请求与响应,五种参数提交方式" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -473,13 +473,7 @@
       <workItem from="1662946972765" duration="161000" />
       <workItem from="1662949747478" duration="48000" />
       <workItem from="1663030158203" duration="81000" />
-    </task>
-    <task id="LOCAL-00006" summary="Changes">
-      <created>1655772370082</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1655772370082</updated>
+      <workItem from="1663044342176" duration="775000" />
     </task>
     <task id="LOCAL-00007" summary="Changes">
       <created>1655773787988</created>
@@ -817,7 +811,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663030221504</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="SpringMVC 请求与响应,五种参数提交方式">
+      <created>1663044388702</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1663044388702</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -853,7 +854,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="httpserv cookie session" />
     <MESSAGE value="httpservlet cookie session" />
     <MESSAGE value="filter拦截器入门" />
     <MESSAGE value="删除编译文件" />
@@ -878,7 +878,8 @@
     <MESSAGE value="SpringMVC 基础demo以及环境加载，扫描排除" />
     <MESSAGE value="SpringMVC 请求路径模块化" />
     <MESSAGE value="SpringMVC 请求与响应" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC 请求与响应" />
+    <MESSAGE value="SpringMVC 请求与响应,五种参数提交方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC 请求与响应,五种参数提交方式" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
