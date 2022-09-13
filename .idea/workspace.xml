@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC 请求路径模块化" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC 请求与响应" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -472,13 +472,7 @@
       <workItem from="1662478765432" duration="82000" />
       <workItem from="1662946972765" duration="161000" />
       <workItem from="1662949747478" duration="48000" />
-    </task>
-    <task id="LOCAL-00005" summary="Changes">
-      <created>1655772361441</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1655772361441</updated>
+      <workItem from="1663030158203" duration="81000" />
     </task>
     <task id="LOCAL-00006" summary="Changes">
       <created>1655772370082</created>
@@ -816,7 +810,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662949780277</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="SpringMVC 请求与响应">
+      <created>1663030221503</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1663030221504</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -852,7 +853,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="mapper代理开发" />
     <MESSAGE value="httpserv cookie session" />
     <MESSAGE value="httpservlet cookie session" />
     <MESSAGE value="filter拦截器入门" />
@@ -877,7 +877,8 @@
     <MESSAGE value="Springdemo 事务demo-事务传播" />
     <MESSAGE value="SpringMVC 基础demo以及环境加载，扫描排除" />
     <MESSAGE value="SpringMVC 请求路径模块化" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC 请求路径模块化" />
+    <MESSAGE value="SpringMVC 请求与响应" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC 请求与响应" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
