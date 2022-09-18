@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC json-请求与响应,五种参数提交方式" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -475,13 +475,7 @@
       <workItem from="1663030158203" duration="81000" />
       <workItem from="1663044342176" duration="775000" />
       <workItem from="1663058165374" duration="45000" />
-    </task>
-    <task id="LOCAL-00008" summary="Changes">
-      <created>1655777528238</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1655777528238</updated>
+      <workItem from="1663075654676" duration="92000" />
     </task>
     <task id="LOCAL-00009" summary="Changes">
       <created>1655785074551</created>
@@ -819,7 +813,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663058190328</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换">
+      <created>1663075715029</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1663075715029</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -855,7 +856,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="filter拦截器入门" />
     <MESSAGE value="删除编译文件" />
     <MESSAGE value="Ajax Demo" />
     <MESSAGE value="java前后端提交交互" />
@@ -880,7 +880,8 @@
     <MESSAGE value="SpringMVC 请求与响应" />
     <MESSAGE value="SpringMVC 请求与响应,五种参数提交方式" />
     <MESSAGE value="SpringMVC json-请求与响应,五种参数提交方式" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC json-请求与响应,五种参数提交方式" />
+    <MESSAGE value="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
