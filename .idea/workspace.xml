@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC 请求与响应2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -476,13 +476,7 @@
       <workItem from="1663044342176" duration="775000" />
       <workItem from="1663058165374" duration="45000" />
       <workItem from="1663075654676" duration="92000" />
-    </task>
-    <task id="LOCAL-00009" summary="Changes">
-      <created>1655785074551</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1655785074551</updated>
+      <workItem from="1663476841584" duration="533000" />
     </task>
     <task id="LOCAL-00010" summary="//Connection详解事务管理">
       <created>1655785749223</created>
@@ -820,7 +814,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663075715029</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="SpringMVC 请求与响应2">
+      <created>1663476898322</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1663476898323</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -856,7 +857,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="删除编译文件" />
     <MESSAGE value="Ajax Demo" />
     <MESSAGE value="java前后端提交交互" />
     <MESSAGE value="vue案例" />
@@ -881,7 +881,8 @@
     <MESSAGE value="SpringMVC 请求与响应,五种参数提交方式" />
     <MESSAGE value="SpringMVC json-请求与响应,五种参数提交方式" />
     <MESSAGE value="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
+    <MESSAGE value="SpringMVC 请求与响应2" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC 请求与响应2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
