@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC 请求与响应2" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC REST入门案例" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -477,13 +477,7 @@
       <workItem from="1663058165374" duration="45000" />
       <workItem from="1663075654676" duration="92000" />
       <workItem from="1663476841584" duration="533000" />
-    </task>
-    <task id="LOCAL-00010" summary="//Connection详解事务管理">
-      <created>1655785749223</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1655785749223</updated>
+      <workItem from="1663482339966" duration="87000" />
     </task>
     <task id="LOCAL-00011" summary="//Statement">
       <created>1655798709598</created>
@@ -821,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663476898323</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="SpringMVC REST入门案例">
+      <created>1663482413710</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1663482413710</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -857,7 +858,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Ajax Demo" />
     <MESSAGE value="java前后端提交交互" />
     <MESSAGE value="vue案例" />
     <MESSAGE value="javaweb" />
@@ -882,7 +882,8 @@
     <MESSAGE value="SpringMVC json-请求与响应,五种参数提交方式" />
     <MESSAGE value="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
     <MESSAGE value="SpringMVC 请求与响应2" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC 请求与响应2" />
+    <MESSAGE value="SpringMVC REST入门案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC REST入门案例" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
