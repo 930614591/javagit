@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC REST入门案例" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SpringMVC RESTful快速开发" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -478,13 +478,7 @@
       <workItem from="1663075654676" duration="92000" />
       <workItem from="1663476841584" duration="533000" />
       <workItem from="1663482339966" duration="87000" />
-    </task>
-    <task id="LOCAL-00011" summary="//Statement">
-      <created>1655798709598</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1655798709598</updated>
+      <workItem from="1663483595454" duration="121000" />
     </task>
     <task id="LOCAL-00012" summary="//Statement">
       <created>1655804044426</created>
@@ -822,7 +816,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663482413710</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="SpringMVC RESTful快速开发">
+      <created>1663483670611</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1663483670611</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -858,7 +859,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="java前后端提交交互" />
     <MESSAGE value="vue案例" />
     <MESSAGE value="javaweb" />
     <MESSAGE value="Springdemo IOC" />
@@ -883,7 +883,8 @@
     <MESSAGE value="SpringMVC datapost.java-时间数据提交&amp;&amp;自动转换" />
     <MESSAGE value="SpringMVC 请求与响应2" />
     <MESSAGE value="SpringMVC REST入门案例" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC REST入门案例" />
+    <MESSAGE value="SpringMVC RESTful快速开发" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringMVC RESTful快速开发" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
