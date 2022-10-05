@@ -9,7 +9,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SSM整合 demo2-表现层数据的统一处理" />
+    <list default="true" id="d4892043-5d51-4889-9c19-217ebbfd43cc" name="Changes" comment="SSM整合 demo3异常处理">
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/config/MyaBtisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/config/ServletConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/controller/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/controller/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/controller/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/exception/SystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/java/com/li/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/test/java/com/test/service/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM/demo4/src/test/java/com/test/service/mysql_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -481,13 +512,8 @@
       <workItem from="1663483595454" duration="121000" />
       <workItem from="1664001972939" duration="1231000" />
       <workItem from="1664802063973" duration="266000" />
-    </task>
-    <task id="LOCAL-00014" summary="//Statement">
-      <created>1655806426191</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1655806426191</updated>
+      <workItem from="1664806692977" duration="94000" />
+      <workItem from="1664976398199" duration="318000" />
     </task>
     <task id="LOCAL-00015" summary="//Statement">
       <created>1655806923082</created>
@@ -825,7 +851,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664802136362</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="SSM整合 demo3异常处理">
+      <created>1664806775910</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1664806775910</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -861,7 +894,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Springdemo IOC" />
     <MESSAGE value="Springdemo IOC/DI" />
     <MESSAGE value="Springdemo 自动装配和资源文件" />
     <MESSAGE value="Springdemo 2.5半注解开发demo" />
@@ -886,7 +918,8 @@
     <MESSAGE value="SpringMVC RESTful快速开发" />
     <MESSAGE value="SSM整合 demo1" />
     <MESSAGE value="SSM整合 demo2-表现层数据的统一处理" />
-    <option name="LAST_COMMIT_MESSAGE" value="SSM整合 demo2-表现层数据的统一处理" />
+    <MESSAGE value="SSM整合 demo3异常处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="SSM整合 demo3异常处理" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
